@@ -1,0 +1,1471 @@
+employee_id,age,gender,marital_status,department,job_role,business_travel,distance_from_home,job_level,years_at_company,years_in_current_role,attrition,manager_name,monthly_income,overtime,stock_option_level,job_satisfaction,environment_satisfaction,work_life_balance,performance_rating
+133,37,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,6,1,3,2,Yes,Iyer,2073,Yes,0,1,3,3,4
+140,59,Female,Married,"Human Resources",Manager,Non-Travel,2,5,3,2,No,Iyer,18844,No,1,4,3,3,4
+590,34,Female,Divorced,"Human Resources","Human Resources",Travel_Frequently,23,3,3,2,Yes,Iyer,9950,Yes,3,1,2,3,3
+731,41,Male,Divorced,"Human Resources",Manager,Travel_Rarely,10,5,21,6,No,Iyer,19141,No,3,4,2,2,3
+1049,45,Male,Single,"Human Resources","Human Resources",Travel_Rarely,24,1,6,3,No,Iyer,2177,No,0,2,2,3,3
+1098,44,Male,Married,"Human Resources","Human Resources",Travel_Rarely,1,3,20,6,Yes,Iyer,10482,No,1,1,2,3,3
+1207,33,Male,Married,"Human Resources","Human Resources",Travel_Rarely,2,1,5,4,No,Iyer,3600,No,1,3,2,3,3
+1352,51,Male,Divorced,"Human Resources",Manager,Travel_Rarely,5,4,33,9,No,Iyer,14026,Yes,1,2,3,3,3
+1467,34,Female,Married,"Human Resources","Human Resources",Travel_Rarely,9,1,2,2,Yes,Iyer,2742,No,0,3,1,3,3
+1714,24,Male,Married,"Human Resources","Human Resources",Travel_Rarely,22,1,1,0,Yes,Iyer,1555,No,1,3,4,3,3
+1747,30,Female,Divorced,"Human Resources","Human Resources",Travel_Frequently,8,1,4,2,Yes,Iyer,2180,No,1,4,3,2,3
+1794,37,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,8,2,10,0,No,Iyer,4071,No,0,2,3,2,3
+1987,25,Female,Married,"Human Resources","Human Resources",Travel_Rarely,2,1,2,0,No,Iyer,2187,No,0,2,3,3,3
+644,50,Male,Married,"Human Resources",Manager,Travel_Frequently,3,5,32,5,No,Brennan,18200,No,1,2,1,3,3
+698,54,Male,Married,"Human Resources","Human Resources",Travel_Rarely,19,3,9,7,No,Brennan,10725,No,1,2,3,4,3
+847,34,Male,Married,"Human Resources","Human Resources",Travel_Rarely,3,1,3,2,No,Brennan,3737,No,1,4,3,1,3
+909,39,Female,Married,"Human Resources","Human Resources",Travel_Rarely,2,2,5,4,No,Brennan,5204,No,2,4,4,3,3
+910,33,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,3,1,4,3,No,Brennan,2277,Yes,1,2,4,4,3
+1314,46,Female,Single,"Human Resources","Human Resources",Travel_Rarely,1,1,7,6,No,Brennan,3423,No,0,1,4,4,3
+1461,31,Female,Single,"Human Resources","Human Resources",Travel_Rarely,8,1,3,2,No,Brennan,2109,No,0,2,4,3,3
+1550,40,Male,Single,"Human Resources",Manager,Travel_Rarely,6,4,21,7,No,Brennan,16437,Yes,0,4,3,3,4
+1722,41,Male,Married,"Human Resources","Human Resources",Non-Travel,4,2,3,2,No,Brennan,6430,No,1,2,3,3,3
+1744,45,Female,Married,"Human Resources","Human Resources",Travel_Rarely,4,3,5,0,No,Brennan,9756,No,2,3,3,4,4
+1746,24,Male,Married,"Human Resources","Human Resources",Travel_Frequently,10,1,2,2,No,Brennan,2145,No,1,4,1,3,3
+1858,28,Male,Divorced,"Human Resources","Human Resources",Non-Travel,1,1,3,2,No,Brennan,2706,No,1,4,3,3,3
+1890,36,Male,Single,"Human Resources","Human Resources",Travel_Frequently,2,2,10,1,No,Brennan,3886,No,0,4,2,2,4
+1944,27,Female,Married,"Human Resources","Human Resources",Travel_Frequently,22,1,1,0,Yes,Brennan,2863,No,0,2,1,3,3
+1973,55,Male,Married,"Human Resources",Manager,Travel_Rarely,26,5,10,9,No,Brennan,19636,Yes,1,2,3,3,3
+2040,35,Female,Single,"Human Resources","Human Resources",Travel_Rarely,26,3,9,0,No,Brennan,8837,Yes,0,4,3,3,3
+103,46,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,5,2,4,2,No,Mehta,5021,Yes,1,2,2,3,4
+148,54,Female,Single,"Human Resources",Manager,Non-Travel,26,4,5,3,No,Mehta,17328,Yes,0,4,4,3,3
+184,30,Male,Married,"Human Resources","Human Resources",Travel_Rarely,9,2,11,9,No,Mehta,6347,Yes,0,4,3,1,3
+424,31,Male,Married,"Human Resources","Human Resources",Travel_Rarely,2,2,2,2,No,Mehta,6410,No,0,1,1,3,3
+566,19,Male,Single,"Human Resources","Human Resources",Travel_Rarely,2,1,1,0,Yes,Mehta,2564,No,0,4,1,4,3
+665,44,Female,Single,"Human Resources","Human Resources",Travel_Rarely,1,2,2,2,No,Mehta,5985,No,0,3,1,4,3
+829,36,Male,Married,"Human Resources","Human Resources",Travel_Rarely,13,1,5,2,No,Mehta,2143,No,1,2,3,3,3
+878,36,Male,Married,"Human Resources","Human Resources",Travel_Rarely,8,1,5,4,No,Mehta,2342,No,0,1,1,3,4
+1152,38,Male,Married,"Human Resources","Human Resources",Travel_Rarely,1,1,7,6,No,Mehta,2844,No,1,3,3,4,3
+1338,56,Male,Single,"Human Resources",Manager,Travel_Rarely,8,5,7,3,No,Mehta,19717,No,0,2,4,3,3
+1419,29,Male,Single,"Human Resources","Human Resources",Travel_Rarely,17,3,10,9,No,Mehta,7988,No,0,1,2,2,3
+1625,47,Female,Married,"Human Resources",Manager,Travel_Rarely,26,5,5,2,No,Mehta,19658,No,1,3,4,3,3
+1778,43,Male,Single,"Human Resources","Human Resources",Travel_Rarely,2,1,9,7,No,Mehta,3539,No,0,4,2,3,3
+1805,38,Male,Divorced,"Human Resources","Human Resources",Non-Travel,2,1,11,10,No,Mehta,2592,No,3,2,1,3,3
+1818,26,Female,Married,"Human Resources","Human Resources",Travel_Rarely,20,1,5,1,Yes,Mehta,2148,Yes,0,2,4,3,3
+1844,29,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,13,1,2,2,Yes,Mehta,2335,Yes,3,1,1,3,3
+177,26,Female,Married,"Human Resources","Human Resources",Travel_Rarely,25,1,8,7,No,Nakamura,2942,No,1,3,3,3,4
+321,59,Male,Married,"Human Resources","Human Resources",Travel_Rarely,6,1,2,2,No,Nakamura,2267,No,0,3,2,2,3
+470,42,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,2,1,3,2,No,Nakamura,2696,Yes,1,3,3,3,3
+608,26,Female,Divorced,"Human Resources","Human Resources",Travel_Frequently,17,1,7,7,Yes,Nakamura,2741,Yes,1,3,2,2,3
+734,41,Male,Married,"Human Resources",Manager,Travel_Rarely,1,5,22,7,No,Nakamura,19189,No,1,3,4,3,3
+760,39,Female,Married,"Human Resources","Human Resources",Travel_Rarely,3,2,8,3,No,Nakamura,6389,No,1,2,3,1,3
+869,28,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,8,1,5,1,No,Nakamura,4936,No,1,4,2,3,3
+1164,35,Male,Single,"Human Resources","Human Resources",Travel_Rarely,8,1,5,4,No,Nakamura,4323,No,0,3,3,1,3
+1231,42,Male,Married,"Human Resources","Human Resources",Non-Travel,2,2,4,3,No,Nakamura,6272,No,1,1,4,4,3
+1289,34,Male,Married,"Human Resources","Human Resources",Travel_Frequently,11,2,10,9,No,Nakamura,4490,No,2,2,3,4,3
+1408,42,Female,Married,"Human Resources",Manager,Travel_Rarely,10,4,20,7,No,Nakamura,16799,No,1,1,3,3,3
+1499,30,Male,Divorced,"Human Resources","Human Resources",Travel_Rarely,1,1,5,3,No,Nakamura,2064,No,1,3,3,4,4
+1563,38,Male,Married,"Human Resources","Human Resources",Travel_Frequently,10,2,6,3,No,Nakamura,6077,No,0,3,3,3,3
+1642,44,Male,Married,"Human Resources","Human Resources",Travel_Frequently,1,2,10,7,No,Nakamura,5743,Yes,0,4,1,3,3
+1683,44,Female,Divorced,"Human Resources","Human Resources",Travel_Rarely,1,1,2,2,No,Nakamura,3195,Yes,3,4,3,3,3
+1842,31,Male,Married,"Human Resources","Human Resources",Travel_Rarely,18,1,1,0,Yes,Nakamura,2956,No,0,1,4,3,3
+1865,29,Male,Married,"Human Resources","Human Resources",Travel_Rarely,6,1,1,0,No,Nakamura,2804,No,0,2,4,3,3
+1972,38,Male,Married,"Human Resources","Human Resources",Travel_Frequently,1,1,6,2,No,Nakamura,2991,Yes,1,2,4,3,3
+15,29,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,15,2,9,5,No,O'Connor,4193,Yes,0,3,4,3,3
+397,36,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,3,2,8,0,No,O'Connor,4485,No,0,2,3,3,3
+556,38,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,1,0,No,O'Connor,1702,Yes,1,4,4,3,4
+634,38,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,10,2,1,0,No,O'Connor,9824,No,1,3,3,3,3
+647,24,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,7,1,6,3,Yes,O'Connor,2886,Yes,1,3,1,3,3
+780,33,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,10,9,Yes,O'Connor,2686,Yes,0,4,4,2,3
+809,42,Male,Divorced,"Research & Development",Manager,Travel_Frequently,8,5,24,7,No,O'Connor,18430,No,1,4,2,2,3
+1015,30,Female,Married,"Research & Development","Research Director",Travel_Rarely,8,3,8,7,No,O'Connor,11416,Yes,3,1,2,2,3
+1288,44,Male,Divorced,"Research & Development",Manager,Travel_Rarely,4,5,25,9,No,O'Connor,19190,No,2,1,3,2,3
+1440,37,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,5,1,6,5,No,O'Connor,3500,No,0,3,3,1,3
+1480,42,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,9,1,12,9,No,O'Connor,3673,No,0,4,1,3,3
+1509,49,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,2,3,2,No,O'Connor,4789,No,1,1,3,3,4
+1592,23,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,10,1,2,2,No,O'Connor,2073,No,1,3,4,3,3
+1601,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,1,0,No,O'Connor,2690,No,1,4,3,2,3
+1604,28,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,1,1,Yes,O'Connor,2408,Yes,3,2,3,3,3
+1674,49,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,16,1,2,2,No,O'Connor,2587,Yes,1,1,4,2,3
+1698,33,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,21,1,14,11,No,O'Connor,2028,No,3,2,2,3,3
+2026,56,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,1,2,13,12,No,O'Connor,6306,No,1,3,3,2,4
+33,32,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,16,1,10,2,Yes,Donovan,3919,Yes,0,1,2,3,4
+77,37,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,7,5,No,Donovan,5993,No,1,3,1,4,3
+90,36,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,1,0,Yes,Donovan,3388,Yes,1,3,4,2,3
+141,50,Female,Married,"Research & Development","Research Director",Travel_Frequently,1,5,8,3,No,Donovan,18172,Yes,0,2,1,2,3
+269,35,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,2,2,6,2,No,Donovan,4425,No,0,2,2,3,3
+346,29,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,15,1,6,5,No,Donovan,2340,No,0,4,3,3,3
+394,26,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,16,1,3,2,Yes,Donovan,2373,Yes,1,2,1,3,3
+448,43,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,10,2,9,7,No,Donovan,5257,No,1,3,3,4,3
+530,31,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,4,2,No,Donovan,2218,No,1,1,4,3,3
+565,29,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,25,1,2,2,Yes,Donovan,2546,No,0,2,3,4,3
+683,34,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,10,9,No,Donovan,2691,No,1,4,2,2,3
+752,42,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,19,1,2,2,Yes,Donovan,2759,Yes,0,3,3,3,3
+944,49,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,3,26,9,No,Donovan,7403,No,1,2,1,2,3
+1201,53,Female,Divorced,"Research & Development",Manager,Travel_Rarely,7,5,7,7,No,Donovan,18606,No,1,3,4,3,3
+1473,49,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,5,2,3,2,No,Donovan,6651,No,1,3,1,2,3
+1549,33,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,28,2,15,14,No,Donovan,5207,Yes,1,3,2,3,3
+1573,38,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,5,2,Yes,Donovan,4855,No,2,2,3,3,3
+1599,43,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,27,1,6,4,No,Donovan,4876,No,1,2,4,3,3
+1867,48,Male,Married,"Research & Development","Research Director",Travel_Rarely,10,5,22,10,No,Donovan,19665,No,0,2,4,3,3
+304,36,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,5,2,13,11,No,Alvarez,5914,No,0,2,4,4,3
+497,27,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,5,2,No,Alvarez,3816,No,1,2,4,3,3
+587,31,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,20,3,1,0,Yes,Alvarez,9824,No,0,3,1,3,3
+949,36,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,7,1,6,2,No,Alvarez,4678,No,0,4,2,3,3
+958,36,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,11,8,No,Alvarez,2519,No,0,3,3,3,4
+999,41,Male,Divorced,"Research & Development","Research Director",Travel_Frequently,9,5,18,16,No,Alvarez,19419,No,1,3,1,4,3
+1014,35,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,25,3,16,10,No,Alvarez,10388,Yes,1,3,3,2,3
+1027,27,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,3,2,No,Alvarez,4227,No,1,4,1,3,3
+1269,19,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,25,1,1,0,No,Alvarez,2994,Yes,0,4,2,3,3
+1533,23,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,20,2,4,3,No,Alvarez,2272,No,0,3,1,3,3
+1544,29,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,8,2,7,7,No,Alvarez,9715,No,1,1,3,3,3
+1606,50,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,20,4,30,8,No,Alvarez,11245,Yes,1,3,2,3,3
+1644,48,Male,Married,"Research & Development",Manager,Travel_Frequently,4,4,2,2,No,Alvarez,15202,No,1,4,3,3,4
+1668,38,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,1,2,13,11,No,Alvarez,4735,No,2,4,4,4,3
+1694,55,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,22,1,4,2,No,Alvarez,3537,No,1,2,1,3,3
+1701,34,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,19,1,10,9,No,Alvarez,2929,No,0,4,2,3,3
+1992,25,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,2,2,No,Alvarez,3977,Yes,1,3,4,2,3
+1994,33,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,1,1,1,1,No,Alvarez,2008,No,3,3,2,2,3
+2003,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,11,1,2,2,No,Alvarez,2660,Yes,1,3,4,3,3
+96,32,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,2,10,4,No,Castillo,6220,No,2,2,2,3,3
+359,32,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,7,1,5,1,No,Castillo,2794,No,0,2,2,1,4
+571,30,Female,Single,"Research & Development","Laboratory Technician",Non-Travel,2,1,11,7,No,Castillo,2564,No,0,4,3,2,3
+894,42,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,2,5,3,No,Castillo,5231,Yes,1,4,3,2,3
+1103,34,Male,Single,"Research & Development","Healthcare Representative",Travel_Frequently,3,2,6,2,No,Castillo,7756,No,0,4,1,2,3
+1195,45,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,7,1,3,2,No,Castillo,4477,Yes,1,3,1,2,3
+1621,35,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,18,2,16,15,No,Castillo,5208,No,0,1,2,3,3
+1696,34,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,5,2,15,10,No,Castillo,3986,No,1,4,2,4,3
+1997,38,Male,Married,"Research & Development","Manufacturing Director",Travel_Frequently,6,2,8,3,No,Castillo,5321,No,1,3,1,3,3
+2020,44,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,4,3,No,Castillo,2436,Yes,0,4,2,3,3
+55,26,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,25,1,1,0,Yes,Rahman,2293,No,0,3,1,2,3
+65,28,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,5,1,2,2,Yes,Rahman,3441,Yes,0,3,3,2,3
+144,22,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,15,1,0,0,No,Rahman,2871,No,0,4,2,3,3
+200,41,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,5,0,No,Rahman,2238,No,1,1,3,3,4
+245,38,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,2,2,No,Rahman,2288,No,0,4,3,3,3
+292,30,Male,Single,"Research & Development","Manufacturing Director",Non-Travel,1,3,11,8,No,Rahman,8474,No,0,3,3,3,4
+362,32,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,2,6,2,No,Rahman,2176,No,0,1,4,3,3
+515,37,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,14,1,18,7,No,Rahman,3034,No,1,1,4,2,3
+689,37,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,3,3,10,7,No,Rahman,9434,No,1,3,3,3,3
+705,23,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,4,1,3,2,No,Rahman,2819,No,1,1,1,4,3
+1024,48,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,4,3,15,11,No,Rahman,10999,No,0,3,3,3,3
+1237,36,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,1,3,7,7,No,Rahman,10252,Yes,1,1,3,3,4
+1260,29,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,7,2,6,0,No,Rahman,6623,Yes,2,4,3,3,3
+1322,39,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,18,2,8,7,No,Rahman,4534,No,0,3,1,3,3
+1401,52,Female,Married,"Research & Development","Manufacturing Director",Travel_Frequently,28,4,5,3,No,Rahman,13247,Yes,1,3,4,2,3
+1558,29,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,1,0,No,Rahman,2451,No,2,3,3,2,3
+1659,36,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,4,3,No,Rahman,2013,No,0,2,1,3,3
+1720,32,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,10,1,5,2,No,Rahman,3433,No,1,3,1,2,3
+1816,30,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,10,3,7,7,No,Rahman,9667,No,0,3,1,3,3
+2007,22,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,Rahman,3375,No,0,3,4,4,3
+143,25,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,7,1,2,2,No,Gallagher,2889,No,2,4,4,3,3
+246,31,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,12,1,4,2,No,Gallagher,3929,Yes,1,4,3,3,4
+286,36,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,18,1,8,1,No,Gallagher,2153,No,0,4,2,3,3
+325,33,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,14,1,5,4,Yes,Gallagher,2436,Yes,1,4,3,1,3
+419,36,Female,Married,"Research & Development","Laboratory Technician",Non-Travel,24,2,9,8,No,Gallagher,5674,No,1,2,2,3,3
+439,32,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,2,2,7,7,No,Gallagher,5055,No,0,4,1,2,3
+547,42,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,29,2,5,4,No,Gallagher,4556,No,1,3,1,3,3
+769,53,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,6,2,2,2,No,Gallagher,2450,No,0,4,4,3,3
+812,24,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,9,1,1,0,No,Gallagher,2694,No,3,2,3,3,3
+887,49,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,4,2,No,Gallagher,3580,No,1,1,3,3,3
+1022,48,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,6,2,2,2,No,Gallagher,4240,No,0,3,1,3,3
+1026,39,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,4,21,6,No,Gallagher,12742,No,1,4,4,3,3
+1033,37,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,11,2,1,0,Yes,Gallagher,4777,No,0,2,1,1,3
+1225,44,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,29,2,20,11,No,Gallagher,4541,No,0,4,4,3,4
+1270,23,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,Gallagher,1223,No,1,3,4,3,4
+1482,30,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,7,1,1,0,No,Gallagher,1274,No,2,3,3,2,3
+1523,44,Male,Married,"Research & Development","Research Director",Travel_Rarely,28,4,20,6,No,Gallagher,16328,No,1,1,4,4,3
+1545,33,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,25,2,5,3,No,Gallagher,4320,No,0,2,4,3,3
+1677,49,Male,Single,"Research & Development",Manager,Travel_Rarely,1,4,8,7,No,Gallagher,15379,No,0,3,3,3,3
+1883,29,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,3,2,No,Gallagher,2062,No,0,1,4,3,3
+40,44,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,10,2,4,2,No,Petrov,6465,Yes,0,4,4,4,3
+107,38,Female,Divorced,"Research & Development","Research Scientist",Non-Travel,6,2,13,11,No,Petrov,5329,Yes,3,4,2,3,3
+202,40,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,26,2,20,7,No,Petrov,5605,No,1,2,2,3,3
+250,53,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,13,2,4,2,No,Petrov,4450,No,2,1,4,3,3
+423,31,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,5,1,5,2,No,Petrov,4821,Yes,1,4,3,3,3
+524,31,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,7,2,13,10,No,Petrov,4306,No,1,1,2,1,3
+569,50,Male,Married,"Research & Development",Manager,Travel_Rarely,29,4,27,10,No,Petrov,17046,No,1,3,2,3,3
+643,24,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,17,1,1,0,No,Petrov,2127,No,1,2,4,3,4
+655,27,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,6,1,5,3,No,Petrov,2187,No,2,3,1,2,3
+699,36,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,9,2,3,2,No,Petrov,8847,Yes,1,2,2,3,3
+701,20,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,10,1,1,0,Yes,Petrov,1009,Yes,0,3,4,3,3
+837,38,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Frequently,12,2,4,3,No,Petrov,6288,No,1,1,1,2,3
+845,35,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,7,3,8,5,No,Petrov,10221,No,0,3,3,4,4
+940,58,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,5,3,6,0,No,Petrov,10552,Yes,1,2,3,3,3
+1285,34,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,19,2,11,8,No,Petrov,4444,No,2,2,3,4,3
+1312,36,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,10,3,7,7,No,Petrov,7094,No,0,3,4,3,3
+1317,50,Female,Married,"Research & Development","Research Director",Travel_Rarely,28,4,3,2,No,Petrov,16880,Yes,0,1,4,3,3
+1412,35,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,18,3,2,2,No,Petrov,9362,No,0,4,3,3,3
+1449,40,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,9,2,8,7,No,Petrov,3975,No,2,3,3,4,3
+1465,45,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,29,3,3,1,No,Petrov,9380,Yes,2,4,2,4,3
+1468,40,Male,Divorced,"Research & Development","Research Director",Non-Travel,8,3,9,8,No,Petrov,13757,No,1,2,4,3,3
+1630,35,Female,Married,"Research & Development","Healthcare Representative",Non-Travel,8,2,14,11,No,Petrov,4148,No,1,3,3,3,3
+1648,27,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,2,1,4,2,No,Petrov,2580,No,0,4,4,2,3
+1649,40,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,4,2,Yes,Petrov,2166,Yes,0,1,1,1,3
+1803,42,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,13,2,0,0,No,Petrov,5538,No,2,1,2,2,3
+1804,35,Male,Divorced,"Research & Development","Manufacturing Director",Non-Travel,2,2,7,7,No,Petrov,5762,No,1,4,2,3,3
+1956,31,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,1,2,10,8,No,Petrov,5003,No,0,1,4,3,4
+1993,47,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,25,3,17,14,No,Petrov,8633,No,0,3,1,3,4
+2057,31,Male,Single,"Research & Development","Manufacturing Director",Non-Travel,5,2,9,4,No,Petrov,9936,No,0,1,2,3,3
+11,30,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,1,0,No,Nakamura,2693,No,1,3,4,3,4
+36,44,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,7,3,22,6,No,Nakamura,10248,No,1,4,1,3,3
+282,38,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,29,2,1,0,Yes,Nakamura,6673,Yes,0,1,2,3,3
+316,52,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,2,2,No,Nakamura,3212,No,0,4,3,2,3
+407,36,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,18,1,1,0,No,Nakamura,3688,No,2,4,3,3,3
+450,54,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,20,2,4,3,No,Nakamura,4869,No,0,3,4,2,3
+624,46,Female,Married,"Research & Development","Healthcare Representative",Travel_Frequently,18,3,2,2,No,Nakamura,10527,No,0,3,1,2,3
+717,34,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,9,3,8,7,No,Nakamura,8621,No,0,2,4,4,3
+762,56,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,9,4,10,7,No,Nakamura,11103,No,0,4,3,2,3
+772,32,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,24,2,10,8,No,Nakamura,5309,No,2,4,1,3,3
+902,43,Female,Married,"Research & Development","Healthcare Representative",Travel_Frequently,1,2,5,2,No,Nakamura,5562,No,1,4,4,2,3
+920,43,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,8,2,1,0,No,Nakamura,4765,No,1,2,1,4,4
+1079,21,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,1,0,Yes,Nakamura,1416,No,0,1,3,2,3
+1106,25,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,7,7,Yes,Nakamura,3691,Yes,1,4,4,4,3
+1217,46,Male,Married,"Research & Development","Research Director",Travel_Rarely,15,5,4,2,No,Nakamura,19081,No,1,2,4,3,3
+1244,27,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,14,1,9,7,No,Nakamura,2235,Yes,2,1,1,2,3
+1309,32,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,7,2,10,4,Yes,Nakamura,4883,No,1,3,4,3,3
+1397,39,Male,Married,"Research & Development","Healthcare Representative",Non-Travel,25,3,6,4,No,Nakamura,10920,No,1,3,3,3,4
+1433,31,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,8,1,1,0,Yes,Nakamura,1261,No,0,2,1,4,3
+1552,40,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,8,2,2,2,No,Nakamura,4069,Yes,0,4,4,3,3
+1580,34,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,2,2,2,No,Nakamura,5484,No,1,4,2,2,3
+1760,38,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,6,1,No,Nakamura,2468,No,1,2,3,2,3
+1789,46,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,2,5,2,1,No,Nakamura,19328,Yes,1,4,3,3,3
+1809,37,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,10,2,10,3,Yes,Nakamura,4213,No,0,1,4,1,3
+1878,22,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,7,1,1,0,Yes,Nakamura,2472,Yes,0,2,4,3,4
+138,34,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,6,2,16,13,No,Ekwueme,4809,No,0,3,1,3,3
+155,36,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,1,0,No,Ekwueme,2835,No,1,4,1,3,4
+164,26,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,6,1,5,4,No,Ekwueme,2368,No,0,2,3,2,3
+178,36,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,6,2,3,2,No,Ekwueme,4941,No,2,2,2,3,4
+347,42,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,17,2,3,2,No,Ekwueme,6545,Yes,0,1,4,3,3
+376,47,Male,Married,"Research & Development",Manager,Non-Travel,29,3,10,7,Yes,Ekwueme,11849,Yes,1,2,1,2,3
+495,29,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,23,1,3,2,No,Ekwueme,2201,No,0,4,4,3,3
+511,22,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,11,1,2,1,No,Ekwueme,2244,No,1,2,1,3,3
+577,35,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,22,1,5,4,No,Ekwueme,4230,No,0,3,4,3,3
+787,55,Male,Married,"Research & Development",Manager,Travel_Rarely,2,5,5,2,Yes,Ekwueme,19859,Yes,1,1,4,3,3
+927,41,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,7,7,Yes,Ekwueme,2778,Yes,1,4,2,2,3
+930,28,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,9,1,2,2,No,Ekwueme,2377,No,1,3,3,3,3
+934,34,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,1,0,No,Ekwueme,2008,No,2,2,2,3,3
+1109,42,Male,Married,"Research & Development",Manager,Travel_Rarely,2,4,22,6,No,Ekwueme,17665,No,1,1,4,3,3
+1248,19,Female,Single,"Research & Development","Research Scientist",Non-Travel,10,1,1,1,Yes,Ekwueme,1859,Yes,0,2,1,4,4
+1279,21,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,10,1,2,2,Yes,Ekwueme,2625,No,0,3,1,1,4
+1392,41,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,22,2,6,2,No,Ekwueme,5467,Yes,2,4,4,2,3
+1605,22,Female,Married,"Research & Development","Research Scientist",Non-Travel,26,1,4,2,No,Ekwueme,2814,Yes,0,3,2,2,3
+1664,36,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,3,2,5,4,No,Ekwueme,6842,No,1,1,4,3,4
+1786,51,Female,Married,"Research & Development",Manager,Travel_Rarely,3,3,2,2,No,Ekwueme,13116,No,0,3,1,3,3
+1847,36,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,2,2,1,0,No,Ekwueme,6962,Yes,1,2,4,3,4
+2051,40,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,3,No,Ekwueme,2001,No,3,3,3,3,3
+262,43,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,7,1,5,4,No,Thibault,2089,No,3,4,4,4,3
+305,33,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,4,1,3,2,No,Thibault,2622,No,0,2,3,3,4
+308,31,Male,Married,"Research & Development","Manufacturing Director",Non-Travel,1,2,5,4,No,Thibault,4345,No,1,3,3,3,3
+328,33,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,9,7,Yes,Thibault,2707,No,0,1,1,4,4
+334,41,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,19,2,1,0,No,Thibault,3072,No,2,1,3,2,3
+493,31,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,9,1,2,2,No,Thibault,2657,Yes,0,2,3,3,3
+579,34,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,2,1,7,3,No,Thibault,2768,No,1,3,4,3,3
+635,37,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,6,5,No,Thibault,6447,No,1,2,2,2,3
+792,26,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,1,1,2,2,No,Thibault,4364,No,1,4,1,3,3
+951,32,Female,Married,"Research & Development","Laboratory Technician",Non-Travel,1,1,3,0,No,Thibault,2332,No,0,2,3,3,4
+1002,45,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,23,2,9,8,No,Thibault,3633,Yes,1,1,4,3,3
+1133,36,Male,Single,"Research & Development","Manufacturing Director",Non-Travel,18,2,11,9,No,Thibault,7779,No,0,4,1,3,4
+1198,20,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,2,2,No,Thibault,3033,No,0,3,1,2,3
+1283,59,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,18,3,9,7,No,Thibault,10512,No,0,4,4,2,3
+1417,26,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,7,7,No,Thibault,3578,No,0,1,3,3,3
+1718,26,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,17,1,3,2,No,Thibault,2305,No,3,3,4,4,3
+1724,40,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,8,2,1,0,No,Thibault,6516,Yes,1,1,2,3,3
+2014,39,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,24,2,7,7,No,Thibault,4108,No,0,4,1,3,3
+13,36,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,27,2,7,7,No,Larsen,5237,No,2,3,3,2,3
+254,55,Male,Single,"Research & Development","Research Director",Travel_Rarely,14,5,24,15,No,Larsen,18722,No,0,2,3,3,3
+466,41,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,6,2,5,4,No,Larsen,6032,Yes,0,2,4,3,3
+591,42,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,5,1,2,2,No,Larsen,2093,No,1,3,2,3,3
+675,22,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,6,1,2,2,No,Larsen,2773,No,0,3,1,3,4
+905,50,Male,Divorced,"Research & Development",Manager,Non-Travel,2,4,31,6,No,Larsen,17924,No,1,1,1,3,3
+950,38,Female,Married,"Research & Development","Research Director",Travel_Rarely,1,3,15,12,No,Larsen,13582,No,1,1,4,3,3
+1182,35,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,3,7,7,No,Larsen,10274,No,1,2,3,4,3
+1202,29,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,15,1,5,4,No,Larsen,2168,Yes,1,4,2,2,3
+1590,29,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Frequently,2,2,6,4,No,Larsen,8853,No,1,4,1,4,3
+1647,27,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,8,1,3,2,No,Larsen,3517,No,0,3,2,3,3
+1671,32,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,2,2,9,5,No,Larsen,5470,No,2,2,4,2,3
+1934,47,Male,Married,"Research & Development","Research Scientist",Non-Travel,14,2,8,7,No,Larsen,5467,No,1,2,3,4,3
+83,36,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,8,3,17,14,No,Singh,10096,No,3,3,3,3,3
+521,40,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,2,1,0,No,Singh,3448,No,1,3,2,3,4
+1350,35,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,4,2,9,6,No,Singh,4249,Yes,0,3,3,3,3
+1703,44,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,2,3,8,7,No,Singh,7879,Yes,1,4,3,3,3
+1854,42,Male,Married,"Research & Development","Research Scientist",Non-Travel,10,1,6,3,No,Singh,2936,No,2,3,3,2,4
+1881,31,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,20,2,10,8,No,Singh,4197,No,1,3,2,3,3
+7,27,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,2,2,No,Brennan,3468,No,1,2,1,3,3
+94,29,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,4,No,Brennan,2703,No,1,2,3,3,4
+190,32,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,5,4,Yes,Brennan,4200,No,0,1,1,4,4
+426,31,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,2,1,2,2,No,Brennan,2695,Yes,1,4,3,1,3
+444,39,Male,Married,"Research & Development",Manager,Travel_Frequently,7,5,21,9,No,Brennan,19272,No,1,4,3,3,3
+447,47,Male,Married,"Research & Development","Research Director",Travel_Rarely,5,5,3,2,No,Brennan,18300,No,1,3,4,3,3
+564,29,Male,Married,"Research & Development","Research Director",Travel_Rarely,3,3,10,2,No,Brennan,11935,No,0,3,2,3,3
+638,49,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,18,5,31,9,No,Brennan,19502,Yes,1,3,4,3,3
+823,36,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,9,7,No,Brennan,5228,No,1,2,3,3,3
+872,22,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,2,2,No,Brennan,4775,No,2,4,4,1,4
+1005,50,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,24,4,12,11,No,Brennan,13973,Yes,1,3,4,3,3
+1006,38,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,10,1,2,1,No,Brennan,2684,No,1,3,3,2,3
+1046,32,Female,Single,"Research & Development","Laboratory Technician",Non-Travel,29,1,8,7,No,Brennan,4025,No,0,3,4,3,3
+1116,48,Male,Single,"Research & Development",Manager,Non-Travel,1,4,5,4,No,Brennan,16885,No,0,4,1,2,4
+1140,34,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,2,2,3,2,No,Brennan,4033,No,0,3,4,2,3
+1307,39,Female,Divorced,"Research & Development",Manager,Travel_Rarely,13,4,19,9,No,Brennan,17123,Yes,2,2,3,3,3
+1576,48,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,15,1,8,2,No,Brennan,2367,No,1,1,3,2,3
+1615,34,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,10,2,9,7,No,Brennan,4724,No,1,4,3,3,3
+1619,27,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,19,1,7,7,No,Brennan,4066,No,2,1,4,3,3
+2052,35,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,4,3,No,Brennan,2977,No,1,4,3,3,3
+39,33,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,1,No,Huang,2496,No,0,4,3,3,3
+227,41,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,14,1,9,8,No,Huang,2451,No,1,3,1,3,3
+233,27,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,17,1,5,2,No,Huang,3058,Yes,1,2,3,2,3
+486,37,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,5,4,No,Huang,3452,No,1,1,3,3,4
+551,42,Female,Married,"Research & Development","Healthcare Representative",Travel_Frequently,28,2,6,5,No,Huang,4523,No,3,4,4,4,3
+816,29,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,1,0,Yes,Huang,2319,Yes,1,1,2,3,3
+865,32,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,8,2,5,3,No,Huang,5175,No,1,3,3,2,3
+1007,46,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,7,3,8,7,No,Huang,10845,No,1,3,4,3,3
+1101,33,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,29,2,13,7,Yes,Huang,4508,No,0,3,1,3,4
+1263,48,Male,Single,"Research & Development","Research Director",Travel_Rarely,1,5,1,0,No,Huang,18265,No,0,4,4,4,3
+1574,32,Male,Married,"Research & Development","Research Scientist",Non-Travel,1,2,6,5,No,Huang,4087,No,1,1,4,2,3
+1737,39,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,1,2,9,8,No,Huang,6472,Yes,1,4,4,3,3
+1762,29,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,4,1,1,0,No,Huang,2109,No,1,1,4,3,3
+1772,41,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,5,3,No,Huang,2289,No,2,1,3,3,4
+1918,26,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,6,1,7,7,No,Huang,2544,No,1,4,3,3,3
+1979,31,Female,Married,"Research & Development","Research Director",Non-Travel,10,3,11,7,No,Huang,11031,No,1,3,3,4,4
+24,38,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,3,2,No,Jankowski,3944,Yes,0,4,4,3,3
+84,55,Female,Divorced,"Research & Development",Manager,Travel_Rarely,8,4,5,0,No,Jankowski,14756,Yes,3,3,4,3,3
+98,31,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,8,2,11,7,No,Jankowski,4424,No,0,4,3,3,4
+223,57,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,24,3,5,3,No,Jankowski,9439,Yes,1,4,3,1,3
+243,19,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,Yes,Jankowski,1102,No,0,4,2,2,4
+364,28,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,0,0,Yes,Jankowski,3485,No,0,3,1,1,3
+384,26,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,1,2,6,5,No,Jankowski,6397,No,1,2,3,1,4
+425,45,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,7,3,24,9,No,Jankowski,5210,No,1,1,1,3,3
+593,22,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,4,1,2,2,Yes,Jankowski,3894,No,0,3,3,3,3
+639,24,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,23,1,6,5,No,Jankowski,2725,Yes,2,4,2,3,3
+854,25,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,4,3,No,Jankowski,3424,No,0,1,1,2,3
+867,52,Female,Married,"Research & Development","Manufacturing Director",Travel_Frequently,25,4,9,8,No,Jankowski,13826,No,0,4,3,3,4
+1013,54,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,17,3,10,7,No,Jankowski,10739,No,1,3,3,3,3
+1102,28,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,15,1,4,2,No,Jankowski,2207,No,1,3,1,2,3
+1374,34,Female,Divorced,"Research & Development","Research Scientist",Non-Travel,26,1,5,4,No,Jankowski,2029,No,3,3,1,3,4
+1458,39,Female,Single,"Research & Development","Laboratory Technician",Non-Travel,2,1,1,0,Yes,Jankowski,3646,Yes,0,1,1,4,4
+1675,38,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,4,3,No,Jankowski,2440,No,0,2,4,3,4
+1814,41,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,5,2,3,2,No,Jankowski,6870,No,0,2,2,1,3
+1974,31,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,No,Jankowski,1129,Yes,3,4,4,3,3
+2008,35,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,9,2,10,7,No,Jankowski,5098,No,0,3,2,3,3
+5,33,Female,Married,"Research & Development","Research Scientist",Travel_Frequently,3,1,8,7,No,Farrell,2909,Yes,0,3,4,3,3
+102,37,Male,Single,"Research & Development","Research Director",Travel_Rarely,7,3,5,2,No,Farrell,13664,No,0,3,1,4,3
+192,45,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,29,1,6,5,No,Farrell,3452,No,0,4,3,2,3
+335,40,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,24,2,9,8,No,Farrell,3319,No,2,4,1,3,3
+343,39,Female,Single,"Research & Development","Healthcare Representative",Travel_Frequently,2,3,19,6,No,Farrell,10938,No,0,3,3,3,4
+393,38,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,23,2,2,2,No,Farrell,5745,No,1,4,4,3,3
+474,37,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,6,2,7,7,No,Farrell,5974,Yes,2,1,3,3,3
+499,49,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,7,3,5,2,No,Farrell,10965,No,0,3,2,3,4
+657,20,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,Farrell,2836,No,0,2,4,4,3
+716,50,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,28,1,20,8,No,Farrell,3221,Yes,3,3,4,3,3
+741,28,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,7,7,Yes,Farrell,2216,Yes,0,2,1,3,3
+813,52,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,11,2,5,2,No,Farrell,3149,No,1,3,4,3,4
+834,45,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,1,0,No,Farrell,2274,No,0,3,2,3,3
+932,39,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,2,2,Yes,Farrell,2404,Yes,0,1,4,1,4
+1143,29,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,10,1,7,5,No,Farrell,3291,No,2,2,4,2,3
+1196,37,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,14,8,No,Farrell,6474,No,1,4,4,2,3
+1496,44,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,2,3,2,2,No,Farrell,10209,Yes,0,3,2,2,3
+1539,50,Male,Single,"Research & Development","Research Director",Travel_Frequently,22,4,32,6,No,Farrell,14411,Yes,0,4,3,3,3
+1595,42,Male,Single,"Research & Development",Manager,Travel_Rarely,9,5,1,0,No,Farrell,19613,No,0,4,4,3,4
+1617,49,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,25,1,9,6,No,Farrell,3211,No,1,1,3,2,3
+1766,38,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,18,2,1,0,No,Farrell,5811,Yes,1,4,2,3,3
+1868,29,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,24,1,1,0,Yes,Farrell,2439,Yes,0,4,4,2,4
+75,35,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,23,1,2,2,No,Mehta,4014,Yes,1,1,3,3,3
+258,51,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,3,4,7,7,No,Mehta,13734,No,0,2,4,3,3
+277,34,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,10,1,5,3,No,Mehta,3815,Yes,1,3,4,4,3
+408,51,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,4,1,No,Mehta,5482,No,1,2,4,3,3
+417,39,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,1,3,18,10,No,Mehta,9613,No,3,4,3,2,3
+434,27,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,5,1,4,3,No,Mehta,2478,Yes,0,2,3,2,3
+455,29,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,3,2,No,Mehta,3983,No,0,4,2,3,3
+465,23,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,26,1,4,2,No,Mehta,2904,No,2,4,3,2,3
+529,37,Female,Married,"Research & Development","Research Scientist",Non-Travel,25,2,13,11,No,Mehta,4449,Yes,2,3,2,3,3
+601,40,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,6,4,20,6,No,Mehta,13237,No,0,3,2,3,3
+611,29,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,19,2,3,2,No,Mehta,4262,No,2,4,4,4,3
+727,32,Female,Single,"Research & Development","Research Director",Travel_Rarely,3,3,7,7,No,Mehta,11159,No,0,4,3,3,3
+912,29,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,4,3,No,Mehta,2532,No,3,4,1,3,3
+913,44,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,8,7,No,Mehta,2559,Yes,0,1,2,3,3
+977,58,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,1,0,Yes,Mehta,2479,No,0,3,4,3,4
+1053,26,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,2,1,3,2,Yes,Mehta,2042,Yes,1,1,1,3,3
+1383,34,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,14,11,No,Mehta,6687,No,0,4,3,4,3
+1389,31,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,22,2,10,2,Yes,Mehta,6179,Yes,2,3,4,2,3
+1504,28,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,0,0,Yes,Mehta,2561,No,0,1,3,2,3
+1513,29,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,3,2,No,Mehta,3180,No,3,2,4,3,3
+1821,46,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,21,2,9,7,Yes,Mehta,8926,No,1,2,4,4,4
+1860,42,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,0,0,No,Mehta,3968,No,0,3,4,3,3
+1916,31,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,2,2,No,Mehta,3978,No,1,3,1,2,3
+1980,54,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,10,2,5,2,No,Mehta,4440,Yes,0,1,3,3,3
+2017,37,Female,Married,"Research & Development","Research Director",Travel_Rarely,10,3,16,11,No,Mehta,13744,Yes,1,4,3,3,4
+137,20,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,6,1,1,0,Yes,Iyer,2926,Yes,0,4,4,3,3
+139,37,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,2,2,1,0,No,Iyer,5163,No,1,4,3,4,3
+206,45,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,9,2,17,9,No,Iyer,2348,No,1,2,2,1,3
+309,59,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,3,1,1,0,No,Iyer,2177,No,1,4,3,3,3
+386,53,Male,Married,"Research & Development","Research Director",Travel_Rarely,3,4,5,3,No,Iyer,17584,Yes,3,3,3,2,3
+536,28,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,17,2,10,0,No,Iyer,4558,No,1,1,3,3,3
+824,29,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,23,1,10,7,No,Iyer,2700,No,1,3,3,3,4
+1082,28,Male,Single,"Research & Development","Healthcare Representative",Non-Travel,24,3,10,7,Yes,Iyer,8722,No,0,1,2,2,3
+1118,52,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,7,3,8,6,No,Iyer,10445,No,0,2,2,3,3
+1128,40,Male,Single,"Research & Development","Research Director",Travel_Rarely,14,5,20,7,No,Iyer,19626,No,0,3,3,4,3
+1162,27,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,6,1,4,2,No,Iyer,2539,No,1,3,4,3,3
+1361,40,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,4,2,No,Iyer,2387,No,1,2,2,3,4
+2010,32,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,29,1,6,2,No,Iyer,2837,No,0,2,3,3,3
+78,32,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,9,8,No,Kowalski,6162,Yes,1,4,1,3,4
+201,19,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,1,0,No,Kowalski,1483,No,0,2,2,3,3
+340,37,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,1,No,Kowalski,3920,No,1,1,3,2,3
+901,53,Female,Single,"Research & Development","Research Director",Travel_Rarely,23,4,12,9,No,Kowalski,14275,No,0,4,4,3,3
+1886,35,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,16,2,3,2,No,Kowalski,4788,Yes,0,2,4,3,3
+1931,27,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,3,No,Kowalski,2226,No,1,2,2,2,3
+198,30,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,5,3,No,Quinn,2720,No,0,4,2,3,3
+211,51,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,7,2,1,0,No,Quinn,6132,No,0,3,2,3,3
+395,28,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,8,1,5,3,No,Quinn,3310,No,0,4,4,3,4
+454,29,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,7,7,Yes,Quinn,2119,Yes,0,1,2,2,3
+544,45,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,10,1,2,2,No,Quinn,2654,No,2,4,1,2,4
+581,31,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,9,3,13,8,No,Quinn,10648,No,1,2,3,4,4
+838,34,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,16,1,5,2,No,Quinn,2553,No,0,4,3,3,3
+1016,20,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,11,1,1,0,Yes,Quinn,2600,Yes,0,1,4,3,3
+1120,29,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,28,1,7,5,No,Quinn,2514,No,1,4,3,3,4
+1126,43,Female,Married,"Research & Development","Manufacturing Director",Travel_Frequently,27,3,8,7,No,Quinn,10820,No,1,1,3,3,3
+1377,34,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,29,2,8,7,No,Quinn,5429,No,2,3,2,3,3
+1423,58,Female,Married,"Research & Development","Research Director",Travel_Rarely,1,5,9,8,No,Quinn,19701,Yes,1,1,4,3,4
+1434,27,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,11,1,5,0,No,Quinn,2099,No,0,1,2,4,3
+1719,45,Female,Single,"Research & Development","Research Director",Travel_Rarely,28,4,21,6,No,Quinn,16704,No,0,2,4,3,3
+1725,24,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,29,1,6,2,No,Quinn,3907,No,3,1,2,4,3
+1941,49,Male,Married,"Research & Development","Research Director",Travel_Frequently,2,5,5,4,No,Quinn,19161,No,0,4,2,3,3
+2048,40,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,2,2,No,Quinn,2809,No,0,3,3,3,3
+2062,39,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,6,3,7,7,No,Quinn,9991,No,1,1,4,3,3
+2,49,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,8,2,10,7,No,"O'Connor 2",5130,No,1,2,3,3,4
+179,51,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,8,3,4,2,Yes,"O'Connor 2",10650,No,0,4,1,3,3
+550,46,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,18,2,10,7,No,"O'Connor 2",4810,No,1,3,3,2,3
+972,45,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,4,2,9,7,No,"O'Connor 2",4447,No,0,2,3,2,3
+1096,55,Male,Married,"Research & Development","Manufacturing Director",Travel_Frequently,2,3,3,2,No,"O'Connor 2",10976,No,1,2,4,3,3
+1132,39,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,9,2,5,4,No,"O'Connor 2",6782,No,0,2,3,2,3
+1411,37,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,11,1,3,2,No,"O'Connor 2",3629,No,0,3,1,3,3
+1525,39,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,6,3,2,0,No,"O'Connor 2",8376,No,0,2,2,3,3
+1985,40,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,11,2,10,9,No,"O'Connor 2",6323,No,1,3,4,4,3
+85,36,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,11,2,6,5,No,"Donovan 2",6499,No,0,2,2,3,3
+124,46,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,1,3,10,9,No,"Donovan 2",10673,Yes,1,1,3,2,3
+126,54,Female,Married,"Research & Development","Research Director",Travel_Rarely,2,3,4,3,No,"Donovan 2",13549,No,1,3,1,1,3
+543,52,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,3,3,5,4,No,"Donovan 2",7969,Yes,0,3,4,3,3
+710,29,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,1,1,10,7,No,"Donovan 2",2720,No,1,4,2,3,3
+836,42,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,29,2,9,8,No,"Donovan 2",4434,No,1,2,2,2,3
+1028,35,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,3,2,No,"Donovan 2",3917,No,1,4,2,2,4
+1250,54,Male,Married,"Research & Development","Research Director",Travel_Rarely,3,4,10,9,No,"Donovan 2",17779,No,0,4,4,3,3
+1712,45,Male,Married,"Research & Development","Healthcare Representative",Non-Travel,1,3,23,15,No,"Donovan 2",10748,No,1,3,3,2,4
+1799,28,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,5,3,No,"Donovan 2",2044,No,1,4,3,4,3
+1830,54,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,7,2,7,1,No,"Donovan 2",6854,No,1,4,4,2,3
+1839,18,Female,Single,"Research & Development","Research Scientist",Non-Travel,14,1,0,0,No,"Donovan 2",1514,No,0,3,2,1,3
+1850,27,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,5,1,5,4,No,"Donovan 2",2379,Yes,0,4,4,2,3
+132,44,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,23,2,3,2,No,"Alvarez 2",2042,No,1,2,2,4,3
+275,49,Male,Divorced,"Research & Development","Manufacturing Director",Non-Travel,18,2,7,7,No,"Alvarez 2",6804,Yes,2,4,4,3,3
+297,30,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,3,1,5,2,Yes,"Alvarez 2",2657,Yes,0,1,4,3,3
+351,42,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,9,6,No,"Alvarez 2",2593,Yes,1,1,4,3,3
+623,37,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,1,3,6,5,No,"Alvarez 2",7491,No,0,4,2,4,3
+671,44,Male,Married,"Research & Development",Manager,Travel_Rarely,3,5,2,2,No,"Alvarez 2",19513,Yes,1,4,4,4,3
+700,27,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,3,1,4,2,No,"Alvarez 2",2045,No,0,4,1,3,3
+775,34,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,8,2,0,0,No,"Alvarez 2",5121,No,1,1,2,3,3
+802,37,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,10,1,5,3,No,"Alvarez 2",2782,Yes,2,1,4,2,3
+844,27,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,5,3,9,8,No,"Alvarez 2",12808,Yes,1,4,3,3,3
+960,20,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,1,0,Yes,"Alvarez 2",2973,No,0,1,1,3,3
+1012,18,Male,Single,"Research & Development","Research Scientist",Non-Travel,5,1,0,0,No,"Alvarez 2",1051,No,0,4,2,3,3
+1107,26,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,21,1,1,1,Yes,"Alvarez 2",2377,No,1,3,1,2,4
+1111,28,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,1,1,1,0,Yes,"Alvarez 2",2596,No,2,2,1,3,3
+1131,21,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,2,2,No,"Alvarez 2",2070,Yes,0,2,4,4,3
+1340,40,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,16,1,4,2,No,"Alvarez 2",3544,No,1,3,3,3,3
+1448,41,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,5,1,4,2,No,"Alvarez 2",2127,Yes,0,3,2,2,3
+1494,24,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,9,1,0,0,Yes,"Alvarez 2",3172,Yes,0,1,2,2,3
+1767,43,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,17,1,1,0,Yes,"Alvarez 2",2437,Yes,1,3,3,3,3
+1826,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,23,1,5,4,No,"Alvarez 2",2705,No,1,3,2,4,3
+1870,27,Female,Married,"Research & Development","Research Scientist",Travel_Frequently,15,1,7,6,No,"Alvarez 2",4774,No,1,1,4,2,3
+1936,39,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,9,2,10,0,No,"Alvarez 2",5151,No,1,1,1,3,4
+2038,32,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,4,2,No,"Alvarez 2",2439,No,0,1,4,3,3
+41,30,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,10,0,No,"Castillo 2",2206,No,0,3,4,3,3
+79,38,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,29,2,10,3,No,"Castillo 2",2406,No,0,4,4,3,3
+104,30,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,2,10,8,No,"Castillo 2",5126,Yes,2,4,4,2,3
+171,43,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,28,1,3,2,No,"Castillo 2",4739,No,0,3,2,3,3
+241,56,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,8,1,2,2,No,"Castillo 2",4257,Yes,1,1,3,3,3
+247,34,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,27,1,3,2,No,"Castillo 2",2311,No,0,2,4,3,3
+339,34,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,11,9,No,"Castillo 2",5957,No,1,1,4,3,3
+373,36,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,15,13,No,"Castillo 2",3210,No,1,4,4,3,3
+392,44,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,24,1,1,0,Yes,"Castillo 2",3161,Yes,1,3,4,1,4
+501,36,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,2,2,No,"Castillo 2",2543,No,1,3,4,3,3
+1252,31,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,24,2,10,9,No,"Castillo 2",6812,No,0,1,3,3,3
+1407,26,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,4,3,No,"Castillo 2",3904,No,0,4,1,3,3
+1506,28,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,"Castillo 2",1563,No,1,3,1,1,3
+1641,40,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,16,3,4,2,No,"Castillo 2",7945,Yes,0,4,3,2,3
+1662,36,Female,Married,"Research & Development","Manufacturing Director",Non-Travel,1,2,3,2,No,"Castillo 2",4374,No,0,3,4,3,3
+1755,34,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,0,No,"Castillo 2",2932,Yes,3,4,4,3,3
+1782,38,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,5,4,No,"Castillo 2",3702,No,1,3,4,3,3
+2027,29,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,2,2,Yes,"Castillo 2",4787,Yes,3,4,1,4,3
+21,32,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,5,1,6,2,No,"Rahman 2",3298,Yes,2,2,1,2,3
+30,21,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,15,1,0,0,No,"Rahman 2",1232,No,0,4,3,3,3
+51,36,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,5,1,1,1,No,"Rahman 2",3419,Yes,1,1,2,4,3
+151,34,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,6,2,1,0,No,"Rahman 2",4505,No,1,2,3,3,3
+221,28,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,21,1,5,2,No,"Rahman 2",2713,No,1,4,3,1,3
+252,33,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,14,1,8,7,No,"Rahman 2",2756,No,1,2,4,3,3
+264,45,Male,Married,"Research & Development",Manager,Non-Travel,2,4,20,8,No,"Rahman 2",16792,No,1,4,1,3,4
+353,51,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,"Rahman 2",2723,No,0,4,3,2,3
+461,38,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,15,3,11,10,No,"Rahman 2",11510,Yes,1,4,3,3,3
+526,43,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,8,2,5,2,No,"Rahman 2",4522,Yes,0,3,3,3,3
+803,38,Female,Single,"Research & Development","Manufacturing Director",Travel_Frequently,2,2,15,7,No,"Rahman 2",5980,Yes,0,1,1,3,3
+820,47,Female,Married,"Research & Development",Manager,Travel_Rarely,2,4,26,14,No,"Rahman 2",16752,Yes,1,4,3,2,3
+856,35,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,27,1,6,5,No,"Rahman 2",2559,No,0,1,3,2,3
+939,33,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,"Rahman 2",2799,Yes,0,1,3,3,3
+1092,40,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,20,3,11,10,No,"Rahman 2",10322,No,1,4,1,3,4
+1166,40,Female,Single,"Research & Development","Research Director",Travel_Frequently,9,3,18,7,No,"Rahman 2",13499,No,0,3,2,2,3
+1294,36,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,16,14,No,"Rahman 2",5410,Yes,0,2,3,3,3
+1483,57,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,2,12,9,No,"Rahman 2",4900,No,1,3,2,2,4
+1502,33,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,5,4,No,"Rahman 2",3838,No,0,2,1,3,3
+1577,34,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,7,1,1,0,No,"Rahman 2",2972,No,0,4,1,1,3
+1646,24,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,2,1,6,3,No,"Rahman 2",3760,Yes,0,4,1,3,3
+1707,24,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,5,3,No,"Rahman 2",4401,No,1,3,3,3,3
+1729,30,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,16,1,10,0,No,"Rahman 2",2862,No,1,4,2,2,3
+1790,36,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,10,3,12,8,No,"Rahman 2",8321,Yes,1,1,4,3,3
+352,40,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,2,5,21,7,No,"Gallagher 2",19436,No,1,3,1,3,3
+367,31,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,23,2,9,0,No,"Gallagher 2",5582,No,1,4,2,3,4
+380,37,Female,Divorced,"Research & Development","Research Director",Non-Travel,1,3,5,2,No,"Gallagher 2",13603,Yes,2,4,1,3,3
+721,39,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,20,7,No,"Gallagher 2",4553,No,0,3,4,3,3
+895,31,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,11,1,6,4,No,"Gallagher 2",2356,Yes,1,4,4,3,3
+1108,33,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,25,1,2,2,Yes,"Gallagher 2",2313,Yes,0,2,1,3,4
+1160,31,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,15,1,2,2,Yes,"Gallagher 2",2610,No,1,3,3,2,3
+1177,26,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,8,7,No,"Gallagher 2",4420,No,1,4,1,3,4
+1292,42,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,7,2,1,0,No,"Gallagher 2",2372,Yes,0,2,2,3,3
+1333,44,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,3,2,Yes,"Gallagher 2",2362,No,0,1,1,4,3
+1431,34,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,1,1,4,3,No,"Gallagher 2",2996,No,2,1,4,3,3
+1471,44,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,5,1,5,2,No,"Gallagher 2",3162,No,0,3,3,3,3
+1802,40,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,4,3,No,"Gallagher 2",3377,No,1,1,3,2,3
+1871,39,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,19,2,2,2,No,"Gallagher 2",3902,No,3,4,4,3,3
+1873,55,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,2,No,"Gallagher 2",2662,No,1,4,2,4,4
+2012,40,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,1,0,No,"Gallagher 2",2406,No,2,4,1,2,3
+31,34,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,6,1,4,2,Yes,"Petrov 2",2960,No,0,1,2,3,3
+112,56,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,7,3,6,4,No,"Petrov 2",7260,No,0,4,4,2,3
+161,56,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,14,1,5,4,Yes,"Petrov 2",4963,Yes,3,2,2,3,3
+165,58,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,23,3,40,10,Yes,"Petrov 2",10312,No,1,4,4,2,3
+170,49,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,20,2,15,11,No,"Petrov 2",6567,No,0,1,3,2,3
+217,22,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,19,1,2,2,No,"Petrov 2",2323,No,2,4,3,3,4
+271,38,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,1,0,No,"Petrov 2",6553,No,0,3,4,3,3
+306,37,Male,Divorced,"Research & Development","Research Director",Travel_Frequently,11,3,10,8,No,"Petrov 2",12185,Yes,3,4,2,3,3
+372,45,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,20,4,20,7,No,"Petrov 2",13496,Yes,0,4,3,3,3
+616,41,Female,Single,"Research & Development","Healthcare Representative",Non-Travel,2,2,8,7,No,"Petrov 2",6811,Yes,0,3,1,3,3
+622,26,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,1,0,Yes,"Petrov 2",2340,Yes,0,4,3,1,3
+659,42,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,10,2,No,"Petrov 2",4089,No,2,4,3,3,3
+724,38,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,9,7,No,"Petrov 2",7625,No,0,4,2,2,3
+744,44,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,24,1,5,2,No,"Petrov 2",3708,No,0,3,1,3,3
+991,31,Male,Single,"Research & Development","Research Scientist",Non-Travel,9,1,3,2,Yes,"Petrov 2",2321,Yes,0,1,3,3,4
+1001,27,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,16,1,2,2,No,"Petrov 2",2811,No,1,2,3,3,3
+1121,28,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,3,3,9,7,No,"Petrov 2",7655,No,3,2,4,2,3
+1210,41,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,5,1,1,0,Yes,"Petrov 2",2107,No,1,1,1,1,3
+1306,45,Female,Single,"Research & Development",Manager,Travel_Frequently,25,5,0,0,No,"Petrov 2",18061,No,0,2,2,3,4
+1653,25,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,2,2,7,7,No,"Petrov 2",5206,No,2,3,4,3,3
+1693,26,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,7,1,7,7,No,"Petrov 2",2570,No,0,4,4,3,4
+1792,44,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,1,1,5,3,Yes,"Petrov 2",2342,Yes,3,2,3,2,3
+1969,54,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,9,2,4,3,No,"Petrov 2",2897,No,2,3,1,2,3
+1989,30,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,12,8,No,"Petrov 2",3748,No,0,2,4,2,3
+2061,36,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,23,2,5,2,No,"Petrov 2",2571,No,1,4,3,3,3
+2064,27,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,4,2,6,2,No,"Petrov 2",6142,Yes,1,2,2,3,4
+390,26,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,11,2,5,3,No,"Nakamura 2",4741,Yes,1,1,1,3,3
+482,57,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,3,2,No,"Nakamura 2",6755,No,0,3,4,3,3
+525,43,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,21,1,3,2,No,"Nakamura 2",2258,No,1,4,4,3,4
+733,27,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,10,3,9,7,No,"Nakamura 2",8793,No,2,1,4,2,4
+964,40,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,9,1,1,1,No,"Nakamura 2",3617,Yes,1,2,4,3,3
+1018,26,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,8,7,No,"Nakamura 2",5472,No,0,4,4,3,3
+1083,26,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,5,3,No,"Nakamura 2",3955,No,2,1,1,3,3
+1238,33,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,14,10,No,"Nakamura 2",2781,No,1,4,1,3,3
+1275,26,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,4,1,8,5,No,"Nakamura 2",2875,Yes,0,4,3,2,4
+1296,28,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,2,2,No,"Nakamura 2",3867,Yes,1,4,4,3,3
+1303,25,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,2,2,No,"Nakamura 2",2096,No,0,2,4,2,3
+1514,28,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,29,2,8,6,No,"Nakamura 2",6549,No,2,2,3,2,3
+1684,23,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,5,4,Yes,"Nakamura 2",3989,Yes,0,3,4,3,3
+1940,38,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,9,1,5,2,No,"Nakamura 2",4771,No,2,4,2,4,3
+1948,31,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,3,1,4,2,No,"Nakamura 2",3065,Yes,1,1,3,4,3
+1971,43,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,11,3,10,9,No,"Nakamura 2",7510,No,1,3,1,3,3
+1981,24,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,4,3,No,"Nakamura 2",4617,No,0,3,2,2,3
+261,35,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,23,2,1,0,Yes,"Ekwueme 2",5916,Yes,0,3,2,3,3
+379,21,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,3,1,3,2,No,"Ekwueme 2",3230,No,0,3,4,4,3
+389,55,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,20,2,10,7,No,"Ekwueme 2",5415,Yes,1,4,2,3,3
+405,18,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,0,0,Yes,"Ekwueme 2",1420,No,0,3,3,3,3
+452,45,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,8,2,10,9,No,"Ekwueme 2",3697,No,2,4,4,3,3
+496,35,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,9,2,1,1,No,"Ekwueme 2",6540,No,0,2,3,3,3
+825,58,Male,Single,"Research & Development","Research Director",Travel_Rarely,2,5,31,15,Yes,"Ekwueme 2",19246,Yes,0,2,4,3,3
+861,30,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,5,1,5,4,No,"Ekwueme 2",3761,No,1,4,2,2,3
+942,35,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,21,2,10,6,No,"Ekwueme 2",4014,Yes,1,4,4,1,4
+998,33,Female,Married,"Research & Development","Healthcare Representative",Travel_Frequently,1,2,6,5,No,"Ekwueme 2",5488,Yes,1,2,3,3,3
+1081,51,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,4,1,10,0,Yes,"Ekwueme 2",2461,Yes,3,3,1,4,3
+1172,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,8,0,No,"Ekwueme 2",2258,No,1,3,4,3,3
+1191,56,Female,Divorced,"Research & Development",Manager,Travel_Rarely,4,5,5,2,No,"Ekwueme 2",19943,No,1,1,4,3,3
+1382,38,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,7,1,4,2,No,"Ekwueme 2",2610,No,3,3,4,3,3
+1475,44,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,20,1,5,2,No,"Ekwueme 2",3420,No,0,2,4,2,3
+1522,29,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,9,7,Yes,"Ekwueme 2",2362,No,0,1,1,1,3
+1654,39,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,12,2,5,4,No,"Ekwueme 2",5295,No,0,2,4,3,4
+1735,23,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,3,2,No,"Ekwueme 2",3295,No,0,2,3,1,3
+1764,32,Male,Single,"Research & Development","Research Scientist",Non-Travel,5,1,7,7,No,"Ekwueme 2",2718,No,0,2,2,3,3
+1770,55,Male,Married,"Research & Development","Research Director",Travel_Rarely,2,5,1,0,No,"Ekwueme 2",19038,No,3,1,3,3,3
+1900,48,Female,Divorced,"Research & Development",Manager,Travel_Frequently,22,4,22,17,No,"Ekwueme 2",17174,No,1,4,4,3,3
+1937,38,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,8,2,20,11,No,"Ekwueme 2",2133,Yes,1,2,4,3,3
+28,34,Female,Single,"Research & Development","Research Director",Travel_Rarely,7,3,12,6,No,"Thibault 2",11994,No,0,2,1,3,3
+54,27,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,No,"Thibault 2",2341,No,1,1,4,3,3
+63,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,1,0,No,"Thibault 2",2269,No,0,4,4,3,3
+64,48,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,1,3,1,0,Yes,"Thibault 2",5381,Yes,0,3,1,3,3
+70,35,Male,Married,"Research & Development","Healthcare Representative",Non-Travel,11,3,4,0,No,"Thibault 2",9884,Yes,1,1,3,3,3
+110,34,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,5,2,No,"Thibault 2",4325,No,0,2,1,3,3
+412,28,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,16,2,8,3,No,"Thibault 2",5661,No,0,1,2,3,3
+451,43,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,7,3,1,0,No,"Thibault 2",9985,No,1,1,3,2,3
+758,23,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,4,3,No,"Thibault 2",2500,No,1,1,2,4,3
+1185,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,4,1,2,2,No,"Thibault 2",2376,No,1,4,4,4,3
+1286,28,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,1,1,4,2,No,"Thibault 2",2154,Yes,0,3,4,2,3
+1405,27,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,17,1,8,2,Yes,"Thibault 2",2394,Yes,0,3,4,3,3
+1420,49,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,28,2,4,3,Yes,"Thibault 2",4284,No,0,1,1,3,4
+1656,50,Female,Divorced,"Research & Development","Research Director",Travel_Rarely,17,3,14,11,No,"Thibault 2",13269,No,3,1,4,3,3
+1888,45,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,25,2,9,8,No,"Thibault 2",5906,No,2,4,2,2,3
+1932,34,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,22,2,15,10,No,"Thibault 2",5747,Yes,0,4,3,3,3
+1954,29,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,5,3,No,"Thibault 2",5373,No,1,1,1,2,3
+2009,33,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,15,2,9,7,No,"Thibault 2",4878,Yes,1,4,2,3,3
+32,53,Female,Divorced,"Research & Development",Manager,Travel_Rarely,5,5,14,13,No,"Larsen 2",19094,No,1,3,3,2,3
+58,41,Female,Married,"Research & Development","Research Director",Travel_Rarely,12,5,22,15,Yes,"Larsen 2",19545,No,0,3,2,3,3
+260,27,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,9,1,7,7,No,"Larsen 2",2279,No,0,2,4,2,3
+284,22,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,5,1,4,2,No,"Larsen 2",2328,Yes,1,2,4,2,3
+338,33,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,5,1,2,2,No,"Larsen 2",2911,No,1,4,3,2,3
+377,28,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,5,2,No,"Larsen 2",2070,No,1,4,4,2,4
+664,48,Female,Married,"Research & Development",Manager,Travel_Rarely,1,4,3,2,No,"Larsen 2",15402,No,1,1,4,1,3
+702,33,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,3,1,10,8,Yes,"Larsen 2",3348,Yes,0,1,1,3,3
+933,27,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,4,1,1,1,No,"Larsen 2",2318,No,0,3,2,3,3
+1010,35,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,14,1,4,2,Yes,"Larsen 2",3743,Yes,1,2,3,1,4
+1061,50,Male,Married,"Research & Development","Research Director",Travel_Rarely,2,5,8,1,No,"Larsen 2",19237,Yes,1,3,2,2,3
+1235,32,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,2,2,8,7,No,"Larsen 2",4998,Yes,0,3,4,3,3
+1291,35,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,6,1,3,2,No,"Larsen 2",3506,Yes,0,3,3,3,3
+1753,29,Male,Single,"Research & Development","Healthcare Representative",Travel_Frequently,1,2,3,2,No,"Larsen 2",6294,Yes,0,3,4,4,3
+1768,42,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,12,1,5,3,No,"Larsen 2",2766,No,3,2,2,2,4
+1885,37,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,7,2,5,3,No,"Larsen 2",4284,Yes,1,1,4,3,4
+76,31,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,7,2,7,7,No,"Singh 2",5915,No,1,4,4,2,4
+331,32,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,3,2,Yes,"Singh 2",3730,Yes,0,3,4,1,3
+342,37,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,10,3,1,0,Yes,"Singh 2",10048,No,2,3,1,3,3
+582,33,Male,Married,"Research & Development",Manager,Travel_Rarely,15,3,7,6,Yes,"Singh 2",13610,Yes,0,3,2,4,3
+757,34,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,8,2,5,1,No,"Singh 2",6142,No,0,3,2,3,3
+791,52,Male,Married,"Research & Development","Research Scientist",Non-Travel,19,1,4,3,No,"Singh 2",4258,No,1,4,4,3,3
+833,30,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,0,0,No,"Singh 2",6877,Yes,0,4,3,2,4
+899,35,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,25,3,13,10,No,"Singh 2",10903,No,0,2,4,3,3
+926,22,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,3,2,3,2,Yes,"Singh 2",4171,Yes,1,3,2,4,3
+961,31,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,12,2,9,7,No,"Singh 2",5855,Yes,2,4,4,1,3
+1203,22,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,3,1,0,0,Yes,"Singh 2",2853,Yes,1,4,3,3,3
+1251,31,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,11,2,6,5,No,"Singh 2",6833,Yes,0,1,3,2,3
+1265,34,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,20,1,1,0,No,"Singh 2",2585,No,0,3,3,2,3
+1308,58,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,23,1,2,2,No,"Singh 2",2372,No,2,3,1,3,3
+1472,53,Male,Single,"Research & Development","Research Director",Travel_Rarely,2,4,9,8,No,"Singh 2",16598,No,0,2,4,2,3
+1728,35,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,27,2,7,7,No,"Singh 2",6883,No,1,3,4,3,3
+1857,46,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,3,9,8,No,"Singh 2",8578,No,1,4,4,2,3
+1859,29,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,29,2,7,0,No,"Singh 2",6384,No,2,3,4,3,3
+1892,40,Male,Divorced,"Research & Development",Manager,Travel_Rarely,1,4,19,7,No,"Singh 2",16823,No,1,1,1,3,3
+1905,34,Male,Married,"Research & Development","Research Scientist",Non-Travel,16,1,5,2,Yes,"Singh 2",2307,Yes,1,1,4,3,4
+2053,29,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,13,2,4,3,No,"Singh 2",4025,Yes,1,2,4,3,3
+197,30,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,5,1,3,2,No,"Brennan 2",3204,No,1,1,4,3,3
+341,45,Male,Married,"Research & Development","Manufacturing Director",Travel_Frequently,7,2,3,2,No,"Brennan 2",6434,No,1,3,1,3,3
+440,28,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,3,2,Yes,"Brennan 2",3464,Yes,0,4,1,2,3
+477,42,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,1,0,No,"Brennan 2",6781,No,0,4,1,3,4
+827,42,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,4,3,No,"Brennan 2",6062,Yes,1,4,4,3,3
+1071,56,Female,Married,"Research & Development","Research Scientist",Travel_Frequently,9,1,5,4,No,"Brennan 2",2942,No,1,3,1,3,3
+1115,34,Male,Married,"Research & Development","Research Scientist",Non-Travel,3,1,0,0,No,"Brennan 2",2979,No,3,4,3,3,3
+1221,36,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,7,7,No,"Brennan 2",2741,No,1,3,3,3,3
+1228,46,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,6,3,No,"Brennan 2",7379,No,1,4,4,2,3
+1278,55,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,8,4,33,9,No,"Brennan 2",13577,Yes,1,2,4,3,3
+1430,31,Female,Single,"Research & Development","Research Director",Travel_Rarely,8,4,3,2,No,"Brennan 2",16422,No,0,2,1,4,3
+1608,44,Female,Divorced,"Research & Development","Research Director",Travel_Rarely,7,5,22,7,No,"Brennan 2",19049,Yes,1,4,2,2,3
+1692,32,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,Yes,"Brennan 2",1393,No,0,2,4,3,3
+1697,60,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,1,3,1,0,No,"Brennan 2",10883,No,1,4,3,4,4
+1822,40,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,5,3,No,"Brennan 2",6513,No,1,4,3,3,3
+1829,40,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,12,2,7,4,No,"Brennan 2",4448,No,1,1,2,3,3
+1911,42,Male,Married,"Research & Development","Research Director",Travel_Rarely,6,3,13,7,No,"Brennan 2",13348,No,1,1,3,4,3
+10,59,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,1,0,No,"Huang 2",2670,Yes,3,1,3,2,4
+61,37,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,19,1,1,0,No,"Huang 2",3022,No,0,2,2,3,4
+194,30,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,18,1,5,4,No,"Huang 2",2632,No,0,3,1,2,3
+281,40,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,19,2,7,2,No,"Huang 2",2741,Yes,1,4,3,4,3
+288,46,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,1,3,4,2,No,"Huang 2",9396,No,1,1,4,3,3
+471,32,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,8,0,No,"Huang 2",2370,No,1,2,3,3,3
+763,40,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,4,2,No,"Huang 2",2342,Yes,0,4,4,2,4
+804,34,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,6,5,No,"Huang 2",4381,No,0,1,3,3,3
+1068,26,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,1,1,5,3,No,"Huang 2",2007,No,2,3,1,3,3
+1099,33,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,5,3,3,2,No,"Huang 2",7119,No,1,4,4,3,3
+1193,19,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,9,1,1,1,No,"Huang 2",2552,No,0,1,3,3,4
+1224,30,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,7,2,10,7,No,"Huang 2",3491,No,3,3,3,2,3
+1373,56,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,23,4,19,16,No,"Huang 2",13402,Yes,1,2,4,3,3
+1464,31,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,2,2,Yes,"Huang 2",3722,Yes,1,4,2,1,3
+1555,32,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,5,2,7,1,No,"Huang 2",5878,No,1,2,4,3,3
+1658,34,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,3,2,11,8,No,"Huang 2",5433,No,1,2,4,3,3
+1745,30,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,2,1,9,7,No,"Huang 2",4968,No,0,1,4,3,3
+1834,28,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,"Huang 2",3591,No,1,1,3,3,4
+1939,32,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,5,1,4,1,Yes,"Huang 2",2432,Yes,0,3,1,3,3
+46,43,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,3,No,"Jankowski 2",2645,No,2,3,4,2,3
+287,40,Male,Married,"Research & Development","Healthcare Representative",Non-Travel,9,2,3,2,No,"Jankowski 2",4876,No,1,4,4,1,3
+428,33,Female,Married,"Research & Development",Manager,Travel_Frequently,5,3,10,6,No,"Jankowski 2",11878,No,2,2,4,3,3
+848,26,Female,Married,"Research & Development","Research Scientist",Travel_Frequently,5,1,8,7,Yes,"Jankowski 2",2366,Yes,1,3,3,3,3
+1009,24,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,17,2,4,2,No,"Jankowski 2",4377,No,2,3,4,3,3
+1069,46,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,1,5,2,2,No,"Jankowski 2",19627,No,2,4,4,3,3
+1180,40,Female,Married,"Research & Development","Research Scientist",Travel_Frequently,26,2,1,1,No,"Jankowski 2",4422,Yes,1,4,3,1,3
+1334,42,Male,Married,"Research & Development",Manager,Non-Travel,2,4,20,8,No,"Jankowski 2",17861,Yes,0,3,3,2,3
+1435,36,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,4,2,10,4,No,"Jankowski 2",5810,No,0,4,1,2,3
+1553,45,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,1,3,10,8,No,"Jankowski 2",7441,No,3,2,1,3,3
+1596,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,28,2,10,9,No,"Jankowski 2",3407,No,2,3,2,2,3
+1775,53,Female,Married,"Research & Development","Manufacturing Director",Non-Travel,1,4,3,2,No,"Jankowski 2",12965,Yes,3,3,1,2,4
+1903,44,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,2,0,No,"Jankowski 2",5033,No,1,1,2,3,3
+1907,56,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,4,2,Yes,"Jankowski 2",2587,No,0,4,1,3,3
+20,29,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,21,3,10,9,No,"Farrell 2",9980,No,1,1,2,3,3
+45,24,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,2,0,Yes,"Farrell 2",2293,Yes,1,4,2,2,3
+105,35,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,6,4,No,"Farrell 2",2859,No,0,3,2,3,3
+119,40,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,1,4,22,3,No,"Farrell 2",13503,No,1,2,3,2,4
+274,27,Male,Married,"Research & Development","Manufacturing Director",Travel_Frequently,1,2,2,2,No,"Farrell 2",4298,No,1,1,3,3,3
+315,29,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,18,1,4,3,Yes,"Farrell 2",2389,Yes,0,4,3,2,3
+319,42,Male,Married,"Research & Development",Manager,Travel_Rarely,4,5,22,17,No,"Farrell 2",19232,No,0,4,3,3,3
+369,25,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,5,2,6,3,No,"Farrell 2",4000,No,2,1,2,3,3
+421,38,Female,Married,"Research & Development","Research Director",Travel_Rarely,25,3,10,8,No,"Farrell 2",12061,No,1,2,1,3,3
+422,58,Male,Divorced,"Research & Development","Healthcare Representative",Non-Travel,1,2,5,3,No,"Farrell 2",5660,Yes,1,3,4,3,3
+538,25,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,2,2,Yes,"Farrell 2",4031,No,1,1,1,3,3
+649,34,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,6,5,No,"Farrell 2",3622,Yes,1,4,2,3,3
+725,27,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,3,9,7,No,"Farrell 2",7412,No,0,1,3,3,3
+811,23,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,0,0,Yes,"Farrell 2",1601,Yes,2,1,3,3,4
+1154,28,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,6,1,3,1,No,"Farrell 2",2703,Yes,1,3,3,3,3
+1358,25,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,19,1,3,2,No,"Farrell 2",3669,No,3,4,4,2,3
+1546,45,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,28,1,5,4,No,"Farrell 2",2132,No,1,4,4,3,4
+1551,24,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,21,1,1,1,No,"Farrell 2",2296,No,3,1,3,3,3
+1622,28,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,27,2,5,3,No,"Farrell 2",4877,No,1,1,2,2,4
+2054,29,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,28,1,5,4,No,"Farrell 2",3785,No,0,1,4,1,3
+8,32,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,7,7,No,"Mehta 2",3068,No,0,4,4,2,3
+150,24,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,18,1,5,3,No,"Mehta 2",2774,No,1,3,2,3,3
+169,22,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,2,1,No,"Mehta 2",2523,No,1,4,3,3,3
+193,38,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,3,2,3,2,No,"Mehta 2",4317,Yes,0,3,4,3,4
+662,38,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,0,0,No,"Mehta 2",2619,No,0,1,3,2,3
+966,32,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,3,2,8,7,No,"Mehta 2",6725,No,1,1,3,4,3
+1032,59,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,2,4,5,3,No,"Mehta 2",13726,Yes,0,4,3,3,3
+1097,28,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,10,2,8,7,No,"Mehta 2",3660,No,0,3,3,4,3
+1136,28,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,5,3,No,"Mehta 2",3201,No,0,2,1,1,3
+1206,44,Male,Single,"Research & Development","Research Scientist",Non-Travel,17,1,0,0,No,"Mehta 2",2290,No,0,3,4,3,3
+1295,44,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,15,3,10,7,Yes,"Mehta 2",7978,No,1,4,1,3,3
+1474,40,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,2,1,3,1,No,"Mehta 2",2345,No,1,3,3,4,3
+1537,31,Female,Single,"Research & Development","Research Scientist",Travel_Frequently,3,1,7,2,Yes,"Mehta 2",4084,No,0,3,4,1,3
+1564,35,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,3,0,No,"Mehta 2",2450,No,0,1,4,3,3
+1651,36,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,5,3,3,2,No,"Mehta 2",8008,No,2,1,2,3,3
+1798,33,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,8,1,10,8,No,"Mehta 2",3143,No,1,1,4,3,3
+22,22,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,16,1,1,0,No,"Iyer 2",2935,Yes,2,4,4,2,3
+218,27,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,9,1,2,2,No,"Iyer 2",2024,No,1,2,4,1,3
+238,36,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,3,1,8,7,No,"Iyer 2",2088,No,0,2,4,2,3
+253,40,Female,Married,"Research & Development",Manager,Travel_Rarely,4,5,20,8,No,"Iyer 2",19033,No,1,3,4,3,3
+686,26,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,3,2,No,"Iyer 2",2659,Yes,1,4,3,3,3
+945,48,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,20,1,0,0,No,"Iyer 2",2259,No,2,3,4,2,3
+1635,45,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,10,7,No,"Iyer 2",5770,No,2,4,4,3,3
+1682,36,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,26,2,3,2,No,"Iyer 2",5347,No,2,3,1,2,3
+1709,29,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,5,3,No,"Iyer 2",2974,No,1,3,4,3,3
+1771,33,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,4,2,9,8,No,"Iyer 2",3055,No,2,2,4,2,3
+1893,26,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,"Iyer 2",2933,Yes,1,3,2,2,3
+2032,56,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,10,9,Yes,"Iyer 2",2339,No,1,3,4,1,3
+2049,35,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,18,2,10,2,No,"Iyer 2",5689,Yes,2,3,3,4,3
+147,34,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,7,2,9,7,Yes,"Kowalski 2",6074,Yes,0,3,1,3,4
+153,34,Female,Single,"Research & Development",Manager,Travel_Rarely,5,3,11,10,No,"Kowalski 2",11631,No,0,1,3,3,3
+256,34,Male,Married,"Research & Development","Manufacturing Director",Travel_Frequently,2,2,10,9,No,"Kowalski 2",9547,No,0,3,4,2,3
+273,38,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,29,2,7,7,No,"Kowalski 2",6261,No,1,4,4,1,3
+429,39,Male,Married,"Research & Development",Manager,Travel_Rarely,10,4,21,9,No,"Kowalski 2",17068,Yes,0,1,3,3,3
+430,43,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,10,1,8,7,No,"Kowalski 2",2455,No,0,4,3,3,3
+584,33,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,4,3,Yes,"Kowalski 2",3408,No,3,4,1,3,3
+771,35,Female,Divorced,"Research & Development","Healthcare Representative",Non-Travel,2,2,1,0,No,"Kowalski 2",5093,No,1,1,4,4,3
+1200,44,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,10,1,6,4,Yes,"Kowalski 2",2936,Yes,0,3,3,3,3
+1234,32,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,13,1,2,2,No,"Kowalski 2",2743,No,1,2,3,3,4
+1242,42,Female,Married,"Research & Development","Research Director",Travel_Frequently,26,3,1,0,No,"Kowalski 2",13191,Yes,0,1,1,3,3
+1264,29,Female,Divorced,"Research & Development","Research Director",Travel_Rarely,1,4,7,7,No,"Kowalski 2",16124,No,2,4,4,2,3
+1297,51,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,6,1,7,0,No,"Kowalski 2",2838,No,0,3,2,2,3
+1321,30,Female,Married,"Research & Development",Manager,Travel_Rarely,17,3,9,1,No,"Kowalski 2",11916,Yes,2,1,2,3,4
+1336,55,Female,Married,"Research & Development",Manager,Travel_Rarely,2,5,19,9,No,"Kowalski 2",19187,No,1,3,4,3,3
+1360,58,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,7,3,10,9,Yes,"Kowalski 2",10008,Yes,0,1,3,2,3
+1415,25,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,3,2,No,"Kowalski 2",3229,No,1,4,1,2,3
+1441,56,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,"Kowalski 2",2066,No,1,1,1,4,4
+1484,49,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,7,3,8,7,No,"Kowalski 2",10466,No,2,2,3,3,3
+1666,43,Male,Married,"Research & Development","Research Director",Travel_Rarely,15,4,14,10,No,"Kowalski 2",17603,No,1,3,3,3,4
+1970,33,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Frequently,7,2,9,7,No,"Kowalski 2",5968,No,3,3,4,3,4
+2015,38,Female,Married,"Research & Development","Research Director",Travel_Rarely,10,3,18,16,No,"Kowalski 2",13206,No,1,3,2,3,3
+242,33,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,3,1,No,"Quinn 2",2500,No,0,4,3,4,3
+517,42,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,5,2,No,"Quinn 2",2576,No,1,1,2,3,3
+548,30,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,5,4,No,"Quinn 2",6091,No,0,4,3,3,4
+549,60,Female,Married,"Research & Development",Manager,Travel_Rarely,7,5,29,8,No,"Quinn 2",19566,No,0,1,1,1,3
+578,54,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,8,2,1,0,No,"Quinn 2",3780,No,0,3,3,3,3
+691,35,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,6,2,17,11,No,"Quinn 2",6646,No,0,4,2,3,3
+773,38,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,1,0,No,"Quinn 2",3057,Yes,1,3,4,1,3
+797,34,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,4,2,No,"Quinn 2",3280,No,0,4,2,3,3
+832,40,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,16,2,1,0,No,"Quinn 2",5094,No,0,3,1,3,3
+875,42,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,2,1,2,1,No,"Quinn 2",2515,Yes,0,4,2,3,3
+994,29,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,10,1,0,0,Yes,"Quinn 2",2404,Yes,0,1,4,3,4
+1074,55,Male,Single,"Research & Development",Manager,Non-Travel,2,4,9,7,No,"Quinn 2",16756,No,0,1,3,4,3
+1127,39,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Frequently,2,4,18,7,Yes,"Quinn 2",12169,No,3,4,1,3,3
+1363,48,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,4,3,10,9,No,"Quinn 2",7898,No,0,4,4,3,3
+1409,52,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,5,4,No,"Quinn 2",2950,No,0,1,3,1,3
+1516,32,Male,Single,"Research & Development",Manager,Travel_Rarely,10,3,5,2,No,"Quinn 2",11244,No,0,4,3,4,4
+1655,49,Female,Married,"Research & Development","Research Director",Travel_Rarely,22,4,4,2,No,"Quinn 2",16413,No,2,2,1,3,3
+1689,53,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,24,3,4,3,No,"Quinn 2",7005,No,0,4,2,3,3
+1952,26,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,7,7,No,"Quinn 2",2867,No,0,1,3,2,3
+2022,39,Male,Single,"Research & Development",Manager,Non-Travel,9,5,6,0,No,"Quinn 2",19431,No,0,4,4,2,3
+57,30,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,1,2,12,8,No,"O'Connor 3",4011,No,0,4,3,3,4
+145,51,Female,Single,"Research & Development","Healthcare Representative",Travel_Frequently,1,3,13,12,No,"O'Connor 3",7484,No,0,1,1,2,4
+224,27,Male,Divorced,"Research & Development","Research Scientist",Non-Travel,3,1,1,1,No,"O'Connor 3",2566,Yes,1,3,3,2,3
+270,42,Female,Divorced,"Research & Development","Manufacturing Director",Non-Travel,21,2,5,3,No,"O'Connor 3",5265,No,1,3,3,3,3
+296,51,Male,Married,"Research & Development","Research Director",Travel_Rarely,8,3,10,9,No,"O'Connor 3",12490,No,2,2,2,1,3
+433,52,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,8,2,8,2,Yes,"O'Connor 3",4941,No,0,2,3,2,3
+531,39,Male,Divorced,"Research & Development",Manager,Travel_Frequently,1,5,21,8,No,"O'Connor 3",19197,Yes,1,3,2,3,3
+663,43,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,9,2,8,7,No,"O'Connor 3",5679,Yes,1,3,4,3,3
+826,35,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,2,2,No,"O'Connor 3",2506,No,0,3,4,3,3
+1161,37,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,25,2,6,2,No,"O'Connor 3",5731,No,2,4,3,3,3
+1192,29,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,10,8,No,"O'Connor 3",3131,No,1,4,2,3,3
+1298,30,Female,Single,"Research & Development","Manufacturing Director",Non-Travel,9,2,8,4,No,"O'Connor 3",4695,Yes,0,3,3,3,3
+1369,35,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,2,9,7,No,"O'Connor 3",5363,No,1,4,4,3,3
+1631,37,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,19,2,4,3,No,"O'Connor 3",5768,No,3,3,3,2,3
+1721,31,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,5,2,No,"O'Connor 3",3477,No,1,3,2,4,3
+18,34,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,19,1,2,2,No,"Donovan 3",2661,No,1,4,2,3,3
+19,28,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,4,2,Yes,"Donovan 3",2028,Yes,0,3,3,3,3
+26,24,Female,Divorced,"Research & Development","Manufacturing Director",Non-Travel,11,2,4,2,No,"Donovan 3",4011,No,1,3,1,2,3
+116,51,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,4,2,No,"Donovan 3",2075,No,2,4,4,3,4
+231,32,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,6,1,5,4,No,"Donovan 3",3038,No,0,3,3,3,4
+239,30,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,9,2,12,9,No,"Donovan 3",3072,No,2,1,3,3,3
+300,29,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,6,2,Yes,"Donovan 3",2058,No,0,3,3,2,3
+355,31,Male,Single,"Research & Development","Laboratory Technician",Travel_Frequently,29,1,5,4,Yes,"Donovan 3",3479,No,0,2,3,4,3
+605,42,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,24,3,10,9,No,"Donovan 3",7406,Yes,1,1,4,2,4
+806,30,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,2,2,No,"Donovan 3",3833,No,2,3,4,3,4
+1062,37,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,3,2,4,3,No,"Donovan 3",4107,No,0,2,4,2,3
+1073,36,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,12,3,14,8,No,"Donovan 3",8858,No,0,4,4,2,3
+1094,27,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,8,1,3,2,No,"Donovan 3",4621,No,3,3,1,3,3
+1255,43,Male,Married,"Research & Development","Research Director",Travel_Rarely,3,5,8,7,No,"Donovan 3",19740,No,1,4,3,3,3
+1315,28,Female,Married,"Research & Development","Laboratory Technician",Non-Travel,1,2,9,8,No,"Donovan 3",6674,No,3,4,3,3,3
+1346,40,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,2,9,8,No,"Donovan 3",4661,No,0,4,3,3,3
+1424,55,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,1,4,7,7,No,"Donovan 3",14732,No,2,4,2,4,3
+1520,54,Female,Divorced,"Research & Development",Manager,Travel_Frequently,11,4,14,9,No,"Donovan 3",16032,No,1,4,2,3,4
+1542,42,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,No,"Donovan 3",4841,No,1,2,3,3,3
+1586,29,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,3,1,10,9,No,"Donovan 3",4723,Yes,0,1,2,3,3
+1736,31,Female,Single,"Research & Development","Manufacturing Director",Travel_Frequently,24,2,5,4,No,"Donovan 3",5238,No,0,4,4,2,4
+1827,47,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,4,3,22,11,No,"Donovan 3",10333,Yes,1,2,3,3,3
+1922,45,Male,Single,"Research & Development","Healthcare Representative",Travel_Frequently,1,2,4,2,No,"Donovan 3",5399,No,0,3,2,3,3
+14,35,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,16,1,5,4,No,"Alvarez 3",2426,No,1,2,1,3,3
+16,31,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,26,1,5,2,No,"Alvarez 3",2911,No,1,3,1,2,3
+73,33,Female,Single,"Research & Development","Research Director",Travel_Frequently,1,3,15,14,No,"Alvarez 3",13458,Yes,0,4,1,3,3
+259,52,Male,Married,"Research & Development",Manager,Travel_Rarely,1,5,33,18,No,"Alvarez 3",19999,No,1,3,3,3,3
+332,39,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,3,2,No,"Alvarez 3",2232,No,3,3,3,3,3
+381,35,Female,Divorced,"Research & Development",Manager,Travel_Rarely,22,3,7,7,No,"Alvarez 3",11996,No,1,2,2,2,3
+462,31,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,7,3,11,9,No,"Alvarez 3",7143,Yes,0,4,3,2,3
+680,30,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,3,1,1,0,No,"Alvarez 3",2083,No,1,3,3,3,4
+799,54,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,19,2,5,3,No,"Alvarez 3",5485,Yes,2,1,4,3,3
+817,33,Male,Married,"Research & Development","Research Director",Travel_Rarely,7,3,13,9,No,"Alvarez 3",11691,No,0,3,3,4,3
+969,33,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,1,2,5,0,No,"Alvarez 3",6949,No,0,4,2,3,3
+996,45,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,5,3,No,"Alvarez 3",2270,No,2,4,4,3,3
+1042,36,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,16,1,17,13,Yes,"Alvarez 3",2743,No,0,1,3,3,3
+1060,38,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,3,1,2,2,No,"Alvarez 3",2821,No,1,3,3,3,3
+1148,42,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,29,2,1,0,No,"Alvarez 3",4272,No,0,4,2,3,3
+1184,34,Male,Single,"Research & Development","Healthcare Representative",Travel_Frequently,1,2,13,9,No,"Alvarez 3",5343,No,0,1,4,3,4
+1249,29,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,"Alvarez 3",3760,No,3,4,1,3,3
+1257,36,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,3,1,11,10,No,"Alvarez 3",3692,No,0,2,3,2,3
+1301,28,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,3,2,No,"Alvarez 3",2080,No,0,1,4,2,3
+1375,40,Female,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,12,11,No,"Alvarez 3",6377,No,3,3,2,3,4
+1587,35,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,10,2,5,2,No,"Alvarez 3",6142,Yes,0,3,1,3,3
+1611,45,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,5,2,10,7,No,"Alvarez 3",5769,Yes,0,1,3,3,3
+1623,21,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,5,1,2,2,No,"Alvarez 3",3117,No,0,4,3,3,3
+1949,36,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,9,1,5,4,No,"Alvarez 3",2810,No,0,2,1,3,4
+1976,42,Male,Single,"Research & Development","Research Scientist",Non-Travel,23,2,20,9,No,"Alvarez 3",4332,No,0,3,4,3,3
+95,31,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,1,No,"Castillo 3",2501,No,0,2,3,3,3
+134,32,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,1,0,No,"Castillo 3",2956,No,0,1,4,3,3
+396,49,Female,Single,"Research & Development","Research Director",Travel_Frequently,10,5,3,2,No,"Castillo 3",18665,Yes,0,1,3,3,3
+460,37,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,5,2,6,2,No,"Castillo 3",6347,No,2,4,4,2,3
+692,33,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Frequently,6,2,13,11,No,"Castillo 3",7725,No,1,4,3,1,4
+815,50,Male,Married,"Research & Development","Research Director",Travel_Rarely,2,4,4,3,No,"Castillo 3",17639,No,0,3,3,3,3
+881,35,Female,Divorced,"Research & Development","Research Scientist",Travel_Frequently,25,1,10,2,Yes,"Castillo 3",2022,Yes,1,2,4,2,3
+911,32,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,25,1,1,0,Yes,"Castillo 3",2795,Yes,0,4,1,1,4
+976,52,Male,Married,"Research & Development",Manager,Travel_Rarely,1,4,9,8,No,"Castillo 3",17099,No,1,4,4,2,3
+1080,46,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,8,2,16,13,No,"Castillo 3",4615,Yes,3,1,4,3,4
+1368,18,Female,Single,"Research & Development","Laboratory Technician",Non-Travel,1,1,0,0,No,"Castillo 3",1611,No,0,4,4,4,3
+1485,34,Male,Divorced,"Research & Development","Research Director",Travel_Frequently,15,4,14,8,No,"Castillo 3",17007,No,2,1,2,2,3
+1607,32,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,5,1,3,2,No,"Castillo 3",3312,No,2,4,2,3,3
+1638,38,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,3,5,4,No,"Castillo 3",7756,Yes,1,3,4,4,3
+1665,54,Female,Married,"Research & Development",Manager,Travel_Rarely,22,4,10,8,No,"Castillo 3",17426,No,1,3,2,3,4
+2000,47,Female,Married,"Research & Development","Research Director",Non-Travel,1,3,13,8,No,"Castillo 3",11957,No,2,2,3,1,3
+2031,42,Male,Married,"Research & Development",Manager,Travel_Rarely,2,5,22,6,No,"Castillo 3",18880,No,0,3,1,2,3
+12,38,Male,Single,"Research & Development","Manufacturing Director",Travel_Frequently,23,3,9,7,No,"Rahman 3",9526,No,0,3,4,3,4
+518,37,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,10,2,1,0,No,"Rahman 3",4197,Yes,0,2,3,2,3
+574,47,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Rarely,2,2,5,0,No,"Rahman 3",5070,No,3,4,1,3,3
+764,27,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,7,2,7,6,No,"Rahman 3",6811,No,0,1,4,1,3
+807,40,Female,Married,"Research & Development","Healthcare Representative",Travel_Frequently,2,2,8,7,No,"Rahman 3",4244,No,1,2,3,3,4
+880,35,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,9,3,17,14,No,"Rahman 3",10685,Yes,1,3,4,3,4
+957,41,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,18,13,No,"Rahman 3",4721,Yes,0,1,4,3,3
+1025,41,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,7,2,2,2,No,"Rahman 3",5003,No,0,3,4,3,3
+1034,55,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,18,2,8,7,No,"Rahman 3",6385,Yes,2,2,3,3,3
+1035,41,Female,Divorced,"Research & Development","Research Director",Non-Travel,7,5,21,16,No,"Rahman 3",19973,No,2,3,2,3,4
+1088,38,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,17,3,19,9,No,"Rahman 3",8823,No,1,3,3,2,3
+1175,28,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,12,1,1,1,Yes,"Rahman 3",2515,Yes,0,4,3,2,3
+1311,30,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,2,9,2,No,"Rahman 3",4627,No,1,4,1,3,3
+1443,47,Female,Married,"Research & Development","Research Director",Travel_Rarely,2,4,20,17,No,"Rahman 3",17169,No,2,3,1,4,3
+1543,37,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,13,2,10,8,No,"Rahman 3",4285,No,0,4,1,3,3
+1633,39,Female,Single,"Research & Development","Manufacturing Director",Travel_Frequently,4,2,9,2,No,"Rahman 3",5042,No,0,3,1,1,3
+1640,37,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,10,1,8,4,No,"Rahman 3",3936,No,1,2,2,1,3
+1852,29,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,20,1,11,8,No,"Rahman 3",3812,No,0,4,4,4,3
+1982,23,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,12,1,5,2,No,"Rahman 3",2647,No,0,4,4,4,3
+1999,41,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,5,3,No,"Rahman 3",2782,No,1,4,4,3,4
+53,35,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,1,0,No,"Gallagher 3",1951,No,1,4,3,3,3
+88,35,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,1,1,3,2,No,"Gallagher 3",2194,No,1,1,2,2,3
+97,36,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,6,1,1,0,No,"Gallagher 3",3038,No,0,4,2,3,3
+267,37,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,21,1,8,7,No,"Gallagher 3",3564,Yes,1,1,2,2,3
+391,37,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,1,1,17,12,No,"Gallagher 3",2115,No,0,4,4,3,3
+679,32,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,9,2,6,4,No,"Gallagher 3",6322,Yes,1,4,1,2,3
+830,32,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,4,2,14,13,No,"Gallagher 3",6162,No,1,3,3,3,3
+852,44,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,4,2,5,2,No,"Gallagher 3",5933,No,0,2,4,2,3
+997,50,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,1,4,5,4,No,"Gallagher 3",17399,No,1,4,4,2,4
+1085,41,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,7,1,10,6,No,"Gallagher 3",3376,No,0,3,2,3,3
+1158,41,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,12,1,1,0,No,"Gallagher 3",4766,Yes,1,4,2,3,3
+1215,50,Female,Married,"Research & Development",Manager,Travel_Frequently,2,4,2,2,No,"Gallagher 3",17856,No,1,1,4,3,4
+1459,31,Female,Single,"Research & Development","Manufacturing Director",Travel_Frequently,1,3,10,8,Yes,"Gallagher 3",7446,No,0,2,3,3,3
+1572,53,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,2,3,33,7,Yes,"Gallagher 3",10169,No,1,4,3,3,3
+1581,26,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,3,1,1,0,No,"Gallagher 3",2061,No,0,4,1,3,4
+1618,39,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,10,2,7,7,No,"Gallagher 3",5377,No,3,1,2,3,3
+1661,49,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,6,4,15,11,No,"Gallagher 3",13966,Yes,1,3,3,3,3
+1966,32,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,5,2,1,0,No,"Gallagher 3",9679,No,0,4,4,3,4
+2034,41,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,28,4,20,7,No,"Gallagher 3",13570,No,1,2,1,3,4
+546,52,Female,Married,"Research & Development",Manager,Travel_Rarely,4,4,5,2,No,"Petrov 3",16555,No,0,4,4,1,3
+586,35,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,16,3,8,7,No,"Petrov 3",7632,Yes,0,3,4,3,3
+888,24,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,4,1,5,2,No,"Petrov 3",3162,No,0,4,1,2,3
+995,33,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,13,1,3,2,No,"Petrov 3",3452,No,0,4,2,3,3
+1460,45,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,20,3,7,7,No,"Petrov 3",10851,Yes,1,1,2,3,3
+1534,40,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,5,4,Yes,"Petrov 3",2018,No,0,1,4,1,3
+1704,35,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,2,1,5,4,No,"Petrov 3",4930,Yes,0,4,1,4,3
+1751,27,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,8,1,6,2,No,"Petrov 3",3445,No,0,4,3,2,3
+1955,32,Female,Divorced,"Research & Development","Healthcare Representative",Non-Travel,15,2,5,1,No,"Petrov 3",6667,No,1,4,3,3,3
+1998,42,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,18,2,4,3,No,"Petrov 3",5410,Yes,1,1,4,2,3
+4,37,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,0,0,Yes,"Nakamura 3",2090,Yes,0,3,4,3,3
+159,30,Male,Divorced,"Research & Development","Research Scientist",Travel_Frequently,23,1,10,7,No,"Nakamura 3",2613,No,3,3,1,2,4
+249,50,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,3,2,No,"Nakamura 3",3690,No,1,3,3,2,3
+403,37,Male,Married,"Research & Development","Research Scientist",Travel_Frequently,9,1,4,2,No,"Nakamura 3",2326,Yes,3,4,2,2,3
+483,40,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,10,1,7,7,No,"Nakamura 3",2213,Yes,1,3,4,3,3
+514,30,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,4,1,1,0,Yes,"Nakamura 3",2285,Yes,0,4,3,3,4
+520,43,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,12,4,25,10,No,"Nakamura 3",14336,No,1,2,1,3,3
+522,54,Male,Married,"Research & Development","Research Director",Travel_Rarely,5,5,4,2,No,"Nakamura 3",19406,No,1,1,1,2,3
+575,46,Male,Married,"Research & Development","Research Director",Travel_Rarely,2,4,3,2,No,"Nakamura 3",17861,No,0,3,1,1,3
+1004,30,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,22,1,5,2,Yes,"Nakamura 3",2132,Yes,0,3,1,3,3
+1019,22,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,4,3,No,"Nakamura 3",2451,No,1,1,2,2,3
+1043,39,Female,Single,"Research & Development","Manufacturing Director",Travel_Frequently,22,3,21,6,No,"Nakamura 3",10880,Yes,0,1,4,3,3
+1367,51,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,11,4,5,2,No,"Nakamura 3",13142,No,0,2,4,2,3
+1569,35,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,Yes,"Nakamura 3",2074,Yes,1,1,1,3,3
+2025,36,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,4,2,4,2,No,"Nakamura 3",5131,No,3,2,4,3,3
+101,45,Male,Married,"Research & Development","Research Director",Travel_Rarely,6,3,0,0,No,"Ekwueme 3",13245,Yes,0,1,4,4,3
+214,58,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,9,1,1,0,No,"Ekwueme 3",3346,Yes,1,2,2,2,4
+441,30,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,28,2,10,8,No,"Ekwueme 3",5775,No,2,4,4,3,3
+918,58,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Frequently,2,1,1,0,Yes,"Ekwueme 3",2380,Yes,1,4,4,2,3
+923,21,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,18,1,1,0,Yes,"Ekwueme 3",2693,No,0,4,4,2,3
+924,36,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,14,2,16,8,No,"Ekwueme 3",6586,Yes,1,4,3,2,3
+1156,18,Male,Single,"Research & Development","Laboratory Technician",Non-Travel,8,1,0,0,Yes,"Ekwueme 3",1904,No,0,3,3,3,3
+1216,28,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,19,1,6,5,No,"Ekwueme 3",3196,No,3,1,4,3,3
+1299,29,Female,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,7,1,7,7,Yes,"Ekwueme 3",3339,Yes,2,3,2,3,3
+1344,34,Male,Divorced,"Research & Development","Healthcare Representative",Travel_Rarely,9,3,9,7,No,"Ekwueme 3",8500,No,1,4,4,2,3
+1515,33,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,8,2,0,0,No,"Ekwueme 3",6388,Yes,0,3,4,3,3
+1594,36,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,6,2,3,2,No,"Ekwueme 3",5562,Yes,1,1,1,3,3
+1597,34,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,10,2,8,2,No,"Ekwueme 3",5063,No,1,3,4,2,3
+1800,39,Male,Single,"Research & Development","Research Director",Travel_Rarely,10,3,4,3,No,"Ekwueme 3",13464,No,0,3,3,3,4
+1866,43,Female,Married,"Research & Development",Manager,Travel_Rarely,6,5,16,12,No,"Ekwueme 3",19392,No,0,3,1,3,3
+1960,28,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,17,1,4,1,Yes,"Ekwueme 3",2367,No,1,4,3,2,3
+162,51,Male,Single,"Research & Development","Research Director",Travel_Rarely,6,5,20,18,No,"Thibault 3",19537,No,0,3,1,3,3
+336,45,Male,Married,"Research & Development",Manager,Travel_Rarely,1,5,24,0,No,"Thibault 3",19202,No,1,4,3,3,3
+374,55,Male,Single,"Research & Development",Manager,Travel_Rarely,1,5,36,10,No,"Thibault 3",19045,Yes,0,1,4,3,3
+431,49,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,1,4,7,1,No,"Thibault 3",13964,Yes,0,3,3,3,3
+491,50,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,10,3,4,3,No,"Thibault 3",10496,No,0,4,4,3,3
+560,26,Female,Divorced,"Research & Development","Research Scientist",Travel_Rarely,23,1,3,2,No,"Thibault 3",2886,No,2,4,1,1,4
+630,52,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,6,2,10,9,No,"Thibault 3",5577,Yes,2,1,4,3,3
+661,43,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,6,4,1,0,No,"Thibault 3",16627,Yes,1,4,2,2,3
+704,35,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,3,1,1,0,No,"Thibault 3",1281,No,2,3,3,3,3
+743,38,Female,Single,"Research & Development","Manufacturing Director",Travel_Rarely,1,3,1,0,No,"Thibault 3",7861,Yes,0,3,3,4,3
+793,29,Female,Married,"Research & Development","Healthcare Representative",Travel_Rarely,27,2,8,7,No,"Thibault 3",4335,No,1,3,2,2,3
+828,28,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,2,1,2,2,Yes,"Thibault 3",4382,No,0,3,3,2,3
+843,43,Male,Married,"Research & Development","Research Director",Travel_Rarely,14,4,4,1,No,"Thibault 3",17159,No,1,1,2,3,4
+1017,30,Female,Single,"Research & Development","Laboratory Technician",Travel_Frequently,5,1,3,2,Yes,"Thibault 3",2422,No,0,2,2,3,3
+1030,50,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,1,0,No,"Thibault 3",2380,No,0,4,1,3,3
+1241,30,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,11,9,No,"Thibault 3",3579,Yes,1,2,4,3,4
+1258,48,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,2,1,1,0,No,"Thibault 3",2559,No,0,2,4,2,3
+1310,39,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,23,1,5,2,Yes,"Thibault 3",3904,No,0,1,3,3,3
+1402,43,Female,Single,"Research & Development","Research Scientist",Travel_Rarely,6,2,20,7,No,"Thibault 3",4081,Yes,0,3,1,1,3
+1422,54,Female,Single,"Research & Development","Research Director",Travel_Rarely,1,4,20,7,No,"Thibault 3",17328,No,0,4,4,2,3
+1628,40,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,15,3,18,15,No,"Thibault 3",10435,No,2,3,1,3,3
+1783,22,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,1,0,Yes,"Thibault 3",2398,Yes,0,1,3,3,3
+199,41,Male,Divorced,"Research & Development",Manager,Travel_Frequently,10,4,7,6,No,"Larsen 3",17181,No,1,1,4,2,3
+208,29,Male,Married,"Research & Development","Manufacturing Director",Non-Travel,1,2,10,7,No,"Larsen 3",4319,No,1,3,4,3,3
+350,25,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,1,2,4,2,No,"Larsen 3",4898,No,2,3,1,3,3
+385,50,Male,Divorced,"Research & Development","Research Director",Travel_Rarely,4,5,10,4,No,"Larsen 3",19144,No,2,2,1,2,3
+468,42,Female,Single,"Research & Development","Research Director",Travel_Rarely,23,4,1,0,No,"Larsen 3",15992,No,0,4,1,3,3
+562,30,Male,Married,"Research & Development","Laboratory Technician",Non-Travel,3,1,5,3,No,"Larsen 3",2097,No,1,4,3,1,3
+730,53,Male,Married,"Research & Development","Research Director",Travel_Rarely,7,4,5,1,No,"Larsen 3",14814,No,0,3,3,3,3
+742,36,Female,Married,"Research & Development","Research Director",Non-Travel,8,3,8,7,No,"Larsen 3",11713,No,1,1,1,3,3
+882,32,Male,Divorced,"Research & Development","Laboratory Technician",Non-Travel,1,1,3,0,No,"Larsen 3",2314,No,1,4,4,3,3
+1011,31,Female,Married,"Research & Development","Manufacturing Director",Travel_Frequently,1,2,4,3,No,"Larsen 3",4148,No,1,1,3,3,3
+1150,29,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,8,2,10,7,No,"Larsen 3",5056,Yes,1,4,2,2,3
+1173,24,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,24,1,4,3,No,"Larsen 3",3597,No,0,2,4,3,4
+1219,24,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,17,1,1,0,Yes,"Larsen 3",2210,No,1,2,4,1,3
+1245,54,Female,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,1,3,5,4,No,"Larsen 3",10502,No,1,3,4,1,3
+1246,44,Female,Married,"Research & Development","Research Scientist",Travel_Rarely,2,1,10,5,No,"Larsen 3",2011,No,1,4,1,3,3
+1259,27,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,4,1,5,3,No,"Larsen 3",2517,No,3,3,1,3,3
+1394,37,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,4,1,6,4,No,"Larsen 3",2996,Yes,0,3,3,3,3
+1421,29,Female,Single,"Research & Development","Healthcare Representative",Travel_Frequently,14,3,8,7,Yes,"Larsen 3",7553,Yes,0,4,3,3,3
+1447,34,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,1,1,5,4,No,"Larsen 3",3294,No,1,2,4,2,3
+1763,30,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,16,2,7,0,No,"Larsen 3",5294,No,1,3,3,3,3
+1813,43,Male,Single,"Research & Development","Research Scientist",Non-Travel,9,1,3,2,No,"Larsen 3",2438,No,0,3,1,2,3
+1856,47,Female,Single,"Research & Development","Laboratory Technician",Travel_Rarely,9,1,2,2,No,"Larsen 3",2105,No,0,3,2,3,3
+1947,28,Male,Single,"Research & Development","Research Scientist",Non-Travel,16,1,5,3,No,"Larsen 3",2144,No,0,3,3,2,3
+2068,34,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,2,4,3,No,"Larsen 3",4404,No,0,3,2,4,3
+226,50,Female,Single,"Research & Development",Manager,Travel_Rarely,11,5,5,4,No,"Singh 3",19926,No,0,2,3,3,3
+442,31,Female,Married,"Research & Development","Manufacturing Director",Travel_Frequently,7,3,10,9,No,"Singh 3",8943,No,1,3,3,3,4
+464,35,Male,Single,"Research & Development","Manufacturing Director",Travel_Rarely,5,3,16,6,No,"Singh 3",8095,No,0,2,3,3,3
+505,55,Female,Single,"Research & Development",Manager,Travel_Rarely,2,4,5,4,No,"Singh 3",16659,Yes,0,4,3,3,3
+612,33,Female,Divorced,"Research & Development","Research Director",Travel_Rarely,1,4,6,1,No,"Singh 3",16184,No,1,3,1,3,3
+652,35,Male,Single,"Research & Development","Laboratory Technician",Travel_Rarely,25,2,3,2,No,"Singh 3",3681,No,0,4,1,3,3
+715,37,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,10,1,1,0,No,"Singh 3",4680,No,0,4,4,3,3
+784,23,Male,Single,"Research & Development","Research Scientist",Travel_Rarely,10,1,2,2,No,"Singh 3",3505,No,0,3,1,3,3
+850,27,Male,Married,"Research & Development","Research Scientist",Non-Travel,3,1,0,0,No,"Singh 3",1706,No,3,4,4,2,3
+1052,36,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,15,2,1,0,Yes,"Singh 3",4834,No,1,3,1,2,3
+1084,30,Male,Married,"Research & Development","Manufacturing Director",Travel_Rarely,20,2,6,2,No,"Singh 3",9957,No,1,1,3,2,3
+1501,55,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,4,2,3,2,No,"Singh 3",4035,Yes,0,3,4,3,3
+1609,30,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,7,1,6,4,No,"Singh 3",2141,No,1,2,2,2,3
+1614,36,Female,Married,"Research & Development","Manufacturing Director",Travel_Rarely,12,2,3,2,No,"Singh 3",4663,Yes,2,3,3,3,3
+1627,39,Male,Divorced,"Research & Development","Laboratory Technician",Travel_Rarely,3,2,10,8,No,"Singh 3",3069,No,1,3,3,3,3
+1687,38,Female,Married,"Research & Development","Laboratory Technician",Travel_Rarely,4,1,0,0,No,"Singh 3",3306,No,1,3,4,2,3
+1727,46,Male,Single,"Research & Development","Healthcare Representative",Travel_Rarely,13,2,10,7,No,"Singh 3",5562,No,0,2,3,3,3
+1807,34,Male,Married,"Research & Development","Laboratory Technician",Travel_Frequently,9,2,7,1,Yes,"Singh 3",5346,No,1,1,4,2,3
+1837,58,Male,Married,"Research & Development","Research Director",Travel_Frequently,15,4,2,2,No,"Singh 3",15787,Yes,0,3,1,3,3
+80,50,Female,Divorced,"Research & Development","Research Director",Travel_Rarely,7,5,27,3,No,"Brennan 3",18740,Yes,1,3,2,2,3
+86,45,Male,Divorced,"Research & Development","Research Scientist",Travel_Rarely,7,3,1,0,No,"Brennan 3",9724,No,1,1,2,3,3
+117,30,Male,Married,"Research & Development","Healthcare Representative",Travel_Rarely,2,2,11,10,No,"Brennan 3",4152,No,3,4,3,3,3
+337,31,Male,Divorced,"Research & Development","Research Director",Travel_Frequently,3,3,2,2,No,"Brennan 3",13675,No,1,3,2,3,3
+487,46,Female,Married,"Research & Development","Manufacturing Director",Non-Travel,7,2,1,0,No,"Brennan 3",5258,No,0,3,3,4,3
+510,26,Male,Single,"Research & Development","Research Scientist",Travel_Frequently,3,1,6,4,Yes,"Brennan 3",3102,No,0,1,3,3,4
+602,39,Female,Married,"Research & Development","Laboratory Technician",Travel_Frequently,8,1,8,3,No,"Brennan 3",3755,No,1,3,3,3,3
+874,44,Male,Married,"Research & Development","Laboratory Technician",Travel_Rarely,8,1,3,2,No,"Brennan 3",2818,Yes,1,4,1,2,4
+987,47,Male,Divorced,"Research & Development","Manufacturing Director",Travel_Frequently,16,2,19,10,No,"Brennan 3",5067,Yes,0,3,3,4,3
+1256,49,Male,Married,"Research & Development",Manager,Travel_Rarely,4,5,1,0,No,"Brennan 3",18711,No,1,3,1,4,3
+1438,47,Male,Married,"Research & Development","Research Scientist",Travel_Rarely,1,1,6,5,No,"Brennan 3",3420,No,1,4,1,2,3
+1529,35,Female,Single,"Research & Development","Healthcare Representative",Travel_Rarely,16,3,11,8,No,"Brennan 3",8606,No,0,2,4,1,3
+1547,42,Male,Married,"Research & Development","Healthcare Representative",Travel_Frequently,2,3,20,8,No,"Brennan 3",10124,Yes,1,4,4,1,3
+215,40,Male,Married,Sales,"Sales Executive",Travel_Rarely,4,3,12,11,No,Kowalski,10855,No,1,4,3,2,3
+453,40,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,4,3,No,Kowalski,7457,Yes,3,4,2,2,4
+476,26,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,8,7,No,Kowalski,5296,No,1,3,3,3,3
+485,33,Female,Single,Sales,"Sales Representative",Travel_Rarely,5,1,1,0,Yes,Kowalski,2851,Yes,0,3,4,3,3
+516,40,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,2,2,5,4,No,Kowalski,5715,No,2,2,4,3,3
+714,27,Female,Divorced,Sales,"Sales Executive",Travel_Frequently,3,2,6,5,No,Kowalski,4647,Yes,2,4,4,3,4
+857,36,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,18,14,No,Kowalski,6201,Yes,1,4,2,2,3
+904,37,Male,Single,Sales,"Sales Executive",Non-Travel,19,3,10,0,No,Kowalski,7642,Yes,0,2,1,3,3
+981,53,Male,Divorced,Sales,Manager,Travel_Rarely,2,4,17,13,No,Kowalski,14852,No,1,3,3,4,3
+990,36,Male,Divorced,Sales,"Sales Executive",Non-Travel,8,2,7,7,No,Kowalski,5079,No,2,4,1,3,3
+1356,34,Female,Single,Sales,"Sales Executive",Travel_Rarely,15,2,10,8,No,Kowalski,6125,No,0,1,3,4,3
+1495,24,Female,Married,Sales,"Sales Representative",Non-Travel,13,1,1,0,No,Kowalski,2033,No,1,2,4,3,3
+1557,48,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,16,2,8,7,No,Kowalski,6439,No,1,3,3,3,3
+1734,32,Male,Single,Sales,"Sales Executive",Travel_Rarely,1,2,0,0,Yes,Kowalski,6735,No,0,2,1,3,3
+1908,36,Male,Married,Sales,"Sales Executive",Travel_Rarely,17,2,4,2,No,Kowalski,5507,No,2,2,3,1,3
+1928,29,Male,Single,Sales,"Sales Representative",Travel_Frequently,24,1,1,0,Yes,Kowalski,1091,No,0,1,3,3,3
+1943,42,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,12,2,0,0,No,Kowalski,5087,Yes,2,4,2,3,3
+120,51,Male,Single,Sales,"Sales Executive",Travel_Rarely,21,2,10,7,No,Farrell,5441,Yes,0,4,3,1,4
+163,31,Male,Married,Sales,"Sales Executive",Travel_Rarely,6,2,7,7,Yes,Farrell,6172,Yes,0,3,2,2,3
+307,38,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,3,3,16,10,No,Farrell,10609,No,2,3,1,2,3
+620,35,Female,Single,Sales,"Sales Executive",Travel_Rarely,1,2,5,4,No,Farrell,4859,No,0,3,1,3,3
+723,50,Male,Married,Sales,"Sales Executive",Travel_Frequently,8,2,4,3,Yes,Farrell,6796,Yes,1,3,2,3,3
+785,47,Female,Single,Sales,"Sales Executive",Travel_Frequently,27,2,5,4,Yes,Farrell,6397,Yes,0,3,2,3,3
+859,32,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,13,2,5,2,No,Farrell,4403,No,1,4,2,2,3
+868,37,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,16,2,1,0,No,Farrell,6334,No,2,3,4,3,3
+952,25,Male,Married,Sales,"Sales Representative",Travel_Rarely,19,1,1,0,Yes,Farrell,2413,Yes,3,2,3,3,3
+1268,33,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,10,3,9,8,No,Farrell,8380,Yes,2,3,4,3,3
+1329,41,Male,Single,Sales,"Sales Executive",Non-Travel,10,2,19,2,No,Farrell,6151,No,0,2,3,3,3
+1562,30,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,10,8,Yes,Farrell,9714,No,1,1,2,3,3
+1756,33,Female,Single,Sales,"Sales Executive",Non-Travel,2,2,11,7,No,Farrell,5147,No,0,2,4,2,3
+1757,49,Female,Single,Sales,"Sales Executive",Travel_Rarely,11,2,5,1,No,Farrell,4507,No,0,4,4,4,3
+1774,34,Male,Divorced,Sales,"Sales Executive",Non-Travel,10,2,15,14,No,Farrell,4001,Yes,1,3,4,3,3
+1812,39,Male,Divorced,Sales,"Sales Executive",Travel_Frequently,20,2,2,1,No,Farrell,4127,No,1,4,3,3,3
+1815,41,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,4,3,22,14,No,Farrell,10447,Yes,1,3,3,4,3
+1845,45,Female,Married,Sales,"Sales Executive",Non-Travel,2,2,8,7,No,Farrell,5154,No,2,3,3,4,4
+2045,36,Female,Married,Sales,"Sales Executive",Travel_Rarely,11,2,6,3,No,Farrell,6652,No,1,4,2,2,3
+106,55,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,3,1,0,No,Quinn,10239,No,1,4,1,3,3
+216,34,Female,Married,Sales,"Sales Representative",Travel_Frequently,2,1,4,3,No,Quinn,2231,No,1,3,3,3,3
+449,27,Male,Married,Sales,"Sales Executive",Non-Travel,1,2,5,4,No,Quinn,6349,Yes,1,2,3,3,3
+621,34,Male,Single,Sales,"Sales Executive",Travel_Rarely,21,2,10,7,No,Quinn,5337,No,0,4,4,3,3
+666,34,Female,Divorced,Sales,"Sales Representative",Travel_Rarely,14,1,8,2,No,Quinn,2579,Yes,2,3,3,3,3
+796,26,Male,Single,Sales,"Sales Executive",Travel_Rarely,8,2,4,3,Yes,Quinn,5326,No,0,1,4,2,3
+885,25,Male,Married,Sales,"Sales Executive",Travel_Rarely,4,2,5,2,No,Quinn,4256,No,0,1,3,4,3
+959,19,Male,Single,Sales,"Sales Representative",Travel_Rarely,21,1,1,0,Yes,Quinn,2121,Yes,0,2,4,4,3
+1105,37,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,10,2,1,0,No,Quinn,6694,Yes,3,4,4,3,3
+1135,31,Male,Married,Sales,"Sales Representative",Travel_Frequently,20,1,2,2,No,Quinn,2791,No,1,4,3,3,3
+1220,33,Female,Married,Sales,"Sales Executive",Travel_Frequently,25,2,10,7,No,Quinn,4539,No,1,3,2,2,3
+1318,40,Male,Single,Sales,"Sales Executive",Travel_Rarely,25,3,5,4,Yes,Quinn,9094,Yes,0,2,4,3,3
+1324,31,Female,Divorced,Sales,"Sales Executive",Non-Travel,2,3,10,8,No,Quinn,9852,Yes,1,3,4,2,3
+1691,48,Female,Married,Sales,"Sales Representative",Travel_Frequently,7,1,9,7,Yes,Quinn,2655,Yes,2,3,4,3,3
+1752,29,Female,Single,Sales,"Sales Representative",Travel_Rarely,9,1,2,2,Yes,Quinn,2760,No,0,2,2,3,3
+1824,58,Male,Divorced,Sales,Manager,Non-Travel,2,4,16,9,No,Quinn,16291,No,1,2,2,2,4
+1912,31,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,10,2,5,2,No,Quinn,6583,Yes,1,4,3,3,3
+1929,39,Female,Married,Sales,"Sales Executive",Non-Travel,21,2,3,2,No,Quinn,5736,No,1,3,1,3,3
+68,44,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,1,2,4,3,No,Brennan,5454,Yes,1,1,2,2,4
+131,58,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,4,37,10,No,Brennan,13872,No,0,3,4,2,3
+410,41,Male,Single,Sales,Manager,Travel_Rarely,2,4,22,10,No,Brennan,16015,No,0,2,4,3,3
+507,24,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,10,2,5,2,No,Brennan,4260,Yes,1,3,4,4,3
+669,21,Male,Single,Sales,"Sales Representative",Travel_Rarely,22,1,3,2,No,Brennan,3447,No,0,3,3,3,3
+720,24,Female,Single,Sales,"Sales Executive",Travel_Rarely,3,2,2,2,Yes,Brennan,4577,No,0,3,1,3,3
+1218,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,17,2,7,7,No,Brennan,8966,Yes,3,1,3,3,3
+1304,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,2,10,7,No,Brennan,6209,No,2,4,3,4,3
+1548,40,Male,Married,Sales,"Sales Executive",Travel_Rarely,9,2,8,4,No,Brennan,5473,No,0,1,1,4,3
+1733,36,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,13,2,2,2,Yes,Brennan,6134,Yes,3,1,2,3,3
+1898,27,Female,Single,Sales,"Sales Executive",Travel_Rarely,2,2,8,7,No,Brennan,6500,No,0,3,1,2,3
+1,41,Female,Single,Sales,"Sales Executive",Travel_Rarely,1,2,6,4,Yes,Nakamura,5993,Yes,0,4,2,1,3
+152,37,Male,Single,Sales,"Sales Executive",Travel_Rarely,3,3,5,3,No,Nakamura,7428,No,0,4,3,3,3
+175,31,Female,Married,Sales,"Sales Executive",Travel_Rarely,20,2,2,2,Yes,Nakamura,4559,Yes,1,3,2,3,3
+182,39,Female,Married,Sales,"Sales Executive",Travel_Rarely,4,2,15,11,No,Nakamura,5902,No,1,3,4,4,3
+475,30,Female,Married,Sales,"Sales Executive",Non-Travel,25,2,2,2,No,Nakamura,4736,Yes,1,3,4,4,3
+481,36,Male,Married,Sales,"Sales Executive",Travel_Frequently,3,3,13,9,No,Nakamura,9699,No,1,4,1,3,3
+532,56,Female,Married,Sales,"Sales Executive",Travel_Frequently,6,4,7,7,No,Nakamura,13212,No,3,1,3,2,3
+1124,46,Male,Married,Sales,Manager,Travel_Rarely,3,4,12,9,No,Nakamura,17465,No,1,3,1,3,3
+1233,60,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,7,2,11,7,No,Nakamura,5220,Yes,1,4,2,3,3
+1541,34,Male,Married,Sales,"Sales Representative",Travel_Rarely,7,1,11,10,No,Nakamura,2308,Yes,1,3,2,3,4
+1676,47,Female,Divorced,Sales,Manager,Travel_Rarely,2,4,3,2,No,Nakamura,15972,No,3,2,2,3,3
+1678,41,Male,Single,Sales,"Sales Executive",Travel_Rarely,23,3,2,0,No,Nakamura,7082,Yes,0,3,4,3,3
+1927,28,Male,Married,Sales,"Sales Executive",Travel_Frequently,1,2,7,7,No,Nakamura,6834,Yes,1,4,3,3,3
+2065,49,Male,Married,Sales,"Sales Executive",Travel_Frequently,2,2,9,6,No,Nakamura,5390,No,0,2,4,2,3
+49,35,Female,Married,Sales,"Sales Representative",Travel_Rarely,2,1,2,2,No,Mehta,2014,No,0,4,4,3,3
+174,50,Female,Single,Sales,"Sales Executive",Travel_Frequently,12,3,2,2,No,Mehta,9208,No,0,4,3,3,3
+800,27,Male,Married,Sales,"Sales Executive",Travel_Frequently,8,2,4,2,No,Mehta,4342,No,1,4,3,3,3
+855,33,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,1,2,9,8,No,Mehta,4037,No,1,1,1,3,4
+956,26,Male,Single,Sales,"Sales Executive",Travel_Frequently,1,2,7,7,No,Mehta,4294,No,0,1,3,3,3
+970,37,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,3,14,1,Yes,Mehta,10609,No,0,3,1,1,3
+1040,50,Female,Married,Sales,"Sales Executive",Non-Travel,1,2,18,7,No,Mehta,6347,No,1,3,4,3,3
+1281,34,Female,Single,Sales,"Sales Executive",Travel_Rarely,2,2,3,2,No,Mehta,4538,Yes,0,1,3,3,3
+1349,41,Female,Divorced,Sales,"Sales Executive",Travel_Frequently,1,2,9,3,No,Mehta,4103,No,1,1,3,3,3
+1446,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,7,2,4,3,No,Mehta,9204,No,1,4,4,2,3
+1486,28,Male,Married,Sales,"Sales Representative",Travel_Frequently,1,1,3,2,Yes,Mehta,2909,No,1,3,1,4,3
+1863,46,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,3,4,19,17,No,Mehta,13225,No,1,1,1,3,3
+1880,36,Female,Married,Sales,"Sales Executive",Travel_Rarely,10,2,10,9,No,Mehta,5673,Yes,1,3,2,3,3
+1986,40,Female,Married,Sales,"Sales Executive",Travel_Rarely,2,2,11,8,No,Mehta,5677,No,1,2,2,3,3
+2024,36,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,3,9,7,No,Mehta,7644,No,2,4,1,3,3
+154,36,Female,Married,Sales,"Sales Executive",Travel_Frequently,11,3,9,7,No,Donovan,9738,No,1,4,2,3,3
+228,30,Female,Married,Sales,"Sales Executive",Travel_Rarely,5,3,10,9,No,Donovan,9419,No,1,4,2,3,3
+230,38,Female,Single,Sales,"Sales Executive",Travel_Rarely,1,2,8,3,No,Donovan,8686,No,0,4,1,4,4
+484,21,Male,Single,Sales,"Sales Representative",Non-Travel,9,1,3,2,No,Donovan,2610,No,0,4,1,2,4
+527,25,Female,Single,Sales,"Sales Executive",Travel_Rarely,4,2,5,4,No,Donovan,4487,Yes,0,4,2,3,3
+781,25,Female,Single,Sales,"Sales Executive",Travel_Rarely,26,2,6,5,No,Donovan,6180,No,0,4,3,2,4
+840,49,Female,Married,Sales,"Sales Executive",Travel_Rarely,11,3,9,8,Yes,Donovan,7654,No,2,4,3,4,3
+984,35,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,3,3,10,9,No,Donovan,7823,No,1,4,4,3,3
+1039,44,Female,Married,Sales,"Sales Executive",Travel_Rarely,28,4,12,11,No,Donovan,13320,Yes,1,4,4,3,3
+1113,50,Male,Single,Sales,"Sales Executive",Travel_Frequently,1,2,0,0,Yes,Donovan,4728,Yes,0,3,4,3,3
+1507,28,Male,Single,Sales,"Sales Executive",Travel_Frequently,7,2,4,2,No,Donovan,4898,No,0,1,3,3,3
+1578,55,Male,Married,Sales,Manager,Travel_Rarely,26,5,36,6,No,Donovan,19586,No,1,4,3,3,4
+1645,35,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,15,2,2,2,Yes,Donovan,5440,Yes,2,4,1,2,3
+1669,29,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,5,2,10,0,No,Donovan,4187,Yes,1,2,1,2,3
+1758,33,Female,Single,Sales,"Sales Executive",Travel_Rarely,16,3,0,0,Yes,Donovan,8564,Yes,0,1,1,2,4
+1784,31,Female,Married,Sales,"Sales Executive",Travel_Rarely,29,2,12,7,No,Donovan,5468,No,2,4,1,3,3
+1935,56,Female,Married,Sales,"Sales Executive",Travel_Rarely,11,2,0,0,No,Donovan,5380,No,1,1,4,3,3
+1975,39,Male,Single,Sales,"Sales Executive",Travel_Rarely,15,4,20,8,No,Donovan,13341,No,0,1,2,3,3
+2013,32,Male,Married,Sales,"Sales Representative",Travel_Rarely,1,1,2,2,No,Donovan,2269,No,1,2,2,3,3
+2037,41,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,3,2,5,4,No,Donovan,8938,No,1,2,3,3,3
+142,25,Male,Single,Sales,"Sales Executive",Travel_Rarely,5,2,6,4,Yes,Iyer,5744,Yes,0,3,3,3,3
+176,41,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,9,3,9,7,No,Iyer,8189,Yes,1,3,3,3,3
+404,42,Female,Married,Sales,"Sales Executive",Travel_Frequently,26,4,20,4,No,Iyer,13525,No,1,2,3,4,3
+479,36,Female,Single,Sales,"Sales Executive",Non-Travel,1,2,1,0,No,Iyer,6653,No,0,4,4,3,3
+502,34,Male,Single,Sales,"Sales Executive",Non-Travel,19,2,5,2,Yes,Iyer,5304,Yes,0,4,1,2,3
+604,31,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,2,6,5,No,Iyer,6582,Yes,0,4,2,4,3
+677,33,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,8,2,5,0,No,Iyer,7104,No,0,3,3,3,3
+722,32,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,2,10,7,No,Iyer,5396,No,0,4,4,2,3
+1066,40,Male,Married,Sales,"Sales Executive",Travel_Rarely,26,2,7,7,No,Iyer,8396,No,1,1,3,2,3
+1190,32,Female,Divorced,Sales,"Sales Representative",Non-Travel,2,1,1,0,No,Iyer,2827,No,3,1,3,3,3
+1362,36,Female,Married,Sales,"Sales Executive",Travel_Frequently,7,2,15,7,No,Iyer,4639,No,1,1,1,2,3
+1428,30,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,7,2,3,2,No,Iyer,4779,No,2,1,4,3,3
+1477,33,Male,Married,Sales,"Sales Executive",Travel_Frequently,7,2,4,3,No,Iyer,4373,No,2,1,4,3,3
+1497,29,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,19,2,10,7,No,Iyer,8620,No,2,3,3,3,3
+1527,46,Female,Married,Sales,Manager,Travel_Rarely,3,4,13,12,No,Iyer,16606,No,1,2,3,4,3
+1560,33,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,2,2,2,No,Iyer,6392,No,1,1,1,1,3
+1681,33,Female,Divorced,Sales,"Sales Executive",Non-Travel,16,2,6,5,No,Iyer,5368,Yes,1,4,3,3,4
+1706,43,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,10,9,No,Iyer,7847,Yes,1,4,4,3,3
+1754,30,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,15,3,7,7,No,Iyer,7140,No,1,1,3,3,3
+1801,46,Male,Single,Sales,"Sales Executive",Non-Travel,26,2,2,2,No,Iyer,7991,No,0,2,2,3,3
+1869,46,Female,Married,Sales,"Sales Executive",Travel_Rarely,10,3,8,7,Yes,Iyer,7314,No,3,2,3,3,4
+1909,41,Female,Married,Sales,"Sales Executive",Travel_Rarely,8,2,5,4,No,Iyer,4393,No,1,2,3,3,4
+100,35,Male,Single,Sales,"Sales Executive",Travel_Rarely,1,2,15,13,No,Rahman,4312,No,0,1,3,3,3
+329,52,Male,Single,Sales,Manager,Non-Travel,2,5,33,7,No,Rahman,19068,Yes,0,3,1,4,3
+349,29,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,20,2,3,2,No,Rahman,6931,No,1,4,4,3,3
+420,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,7,2,13,8,No,Rahman,5484,No,1,3,4,2,3
+478,21,Female,Single,Sales,"Sales Representative",Travel_Frequently,1,1,3,2,Yes,Rahman,2174,Yes,0,2,1,3,3
+712,48,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,2,2,No,Rahman,8120,No,0,2,2,3,3
+766,29,Male,Divorced,Sales,"Sales Representative",Travel_Rarely,10,1,2,2,No,Rahman,2297,No,2,2,4,3,3
+1048,59,Male,Married,Sales,Manager,Travel_Rarely,1,3,6,4,No,Rahman,11904,Yes,1,4,2,1,3
+1138,49,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,4,9,8,No,Rahman,13120,No,1,2,4,3,3
+1293,43,Female,Single,Sales,"Sales Executive",Travel_Rarely,4,3,21,7,No,Rahman,10231,No,0,4,4,4,3
+1331,31,Female,Single,Sales,"Sales Representative",Travel_Frequently,1,1,3,2,Yes,Rahman,2302,Yes,0,2,4,4,3
+1380,35,Female,Married,Sales,"Sales Executive",Travel_Frequently,18,2,4,2,Yes,Rahman,4614,Yes,1,3,4,2,3
+1436,36,Female,Married,Sales,"Sales Executive",Travel_Rarely,16,2,3,2,No,Rahman,5647,No,2,1,3,2,3
+1457,46,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,9,3,7,7,Yes,Rahman,10096,No,1,4,1,4,3
+1535,34,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,3,10,9,No,Rahman,7083,Yes,0,3,4,3,3
+1554,35,Female,Married,Sales,"Sales Representative",Travel_Rarely,28,1,5,3,No,Rahman,2430,No,2,3,2,3,4
+1945,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,18,2,5,3,No,Rahman,5561,No,1,1,2,1,3
+1995,38,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,15,13,No,Rahman,4440,No,2,2,4,3,3
+2023,23,Male,Married,Sales,"Sales Representative",Travel_Frequently,9,1,1,0,Yes,Rahman,1790,No,1,1,4,2,3
+2036,36,Male,Divorced,Sales,"Sales Executive",Non-Travel,15,2,15,12,No,Rahman,5406,No,1,4,4,2,4
+91,59,Female,Single,Sales,"Sales Executive",Travel_Frequently,1,2,4,3,No,Singh,5473,No,0,3,1,2,3
+312,29,Female,Married,Sales,"Sales Executive",Travel_Frequently,1,3,11,10,No,Singh,7918,No,1,4,2,3,3
+387,42,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,20,16,No,Singh,4907,No,0,3,2,3,4
+416,31,Male,Married,Sales,"Sales Executive",Travel_Rarely,7,2,8,7,No,Singh,6929,No,1,4,2,2,3
+456,30,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,5,2,10,9,No,Singh,6118,No,3,3,4,3,3
+473,48,Female,Married,Sales,Manager,Travel_Rarely,29,3,0,0,No,Singh,12504,No,1,3,1,1,4
+862,53,Female,Married,Sales,"Sales Executive",Travel_Rarely,7,3,5,2,No,Singh,10934,Yes,1,4,1,3,3
+879,25,Male,Married,Sales,"Sales Executive",Travel_Rarely,3,2,5,3,No,Singh,4194,Yes,0,1,3,3,3
+936,42,Female,Single,Sales,"Sales Executive",Travel_Rarely,14,2,5,4,No,Singh,6244,No,0,3,3,3,3
+947,31,Female,Married,Sales,"Sales Executive",Non-Travel,20,2,9,8,No,Singh,6932,No,1,3,4,2,3
+1100,35,Male,Single,Sales,"Sales Executive",Travel_Rarely,4,3,8,7,Yes,Singh,9582,Yes,0,1,4,3,4
+1273,25,Male,Single,Sales,"Sales Representative",Travel_Frequently,24,1,1,0,Yes,Singh,1118,Yes,0,4,3,3,3
+1319,52,Male,Single,Sales,"Sales Executive",Travel_Rarely,5,3,8,7,Yes,Singh,8446,Yes,0,2,2,2,3
+1445,24,Female,Married,Sales,"Sales Executive",Travel_Rarely,4,2,5,4,No,Singh,4162,Yes,2,3,4,3,3
+1835,38,Female,Married,Sales,"Sales Representative",Travel_Rarely,2,2,4,2,No,Singh,5405,Yes,2,4,2,2,4
+1876,30,Male,Single,Sales,"Sales Representative",Travel_Rarely,9,1,1,0,Yes,Singh,1081,No,0,4,2,2,3
+23,53,Female,Married,Sales,Manager,Travel_Rarely,2,4,25,8,No,O'Connor,15427,No,0,4,1,3,3
+121,30,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,4,2,11,8,No,O'Connor,5209,Yes,3,2,3,2,3
+293,27,Female,Single,Sales,"Sales Executive",Travel_Frequently,20,2,7,7,No,O'Connor,9981,No,0,3,4,3,3
+399,31,Female,Divorced,Sales,"Sales Representative",Travel_Frequently,5,1,2,2,No,O'Connor,2789,No,1,2,4,2,3
+500,51,Female,Married,Sales,"Sales Executive",Travel_Rarely,14,2,7,7,No,O'Connor,4936,No,1,4,3,2,3
+523,34,Female,Married,Sales,"Sales Executive",Non-Travel,4,2,3,2,No,O'Connor,6538,No,1,3,3,3,3
+653,31,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,6,2,7,7,No,O'Connor,5460,No,2,4,1,4,4
+783,45,Male,Single,Sales,"Sales Representative",Travel_Rarely,2,2,8,7,No,O'Connor,6632,No,0,3,2,3,3
+1003,47,Female,Single,Sales,"Sales Executive",Travel_Rarely,4,2,9,0,No,O'Connor,4163,Yes,0,4,4,3,3
+1044,33,Female,Single,Sales,"Sales Representative",Non-Travel,8,1,2,2,No,O'Connor,2342,No,0,4,2,2,3
+1165,29,Female,Married,Sales,"Sales Executive",Travel_Rarely,23,3,11,8,Yes,O'Connor,7336,No,1,1,4,1,3
+1211,30,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,29,2,4,3,No,O'Connor,4115,No,3,1,3,3,3
+1390,39,Male,Married,Sales,"Sales Executive",Travel_Rarely,21,2,5,4,No,O'Connor,6120,Yes,2,4,1,4,3
+1591,50,Male,Married,Sales,Manager,Travel_Rarely,9,5,1,0,No,O'Connor,19331,Yes,1,3,3,3,3
+1700,37,Male,Divorced,Sales,"Sales Executive",Travel_Frequently,1,2,6,3,No,O'Connor,9525,No,2,4,3,2,3
+1732,46,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,2,3,10,6,No,O'Connor,10368,Yes,1,4,3,2,3
+1882,34,Male,Married,Sales,"Sales Executive",Travel_Rarely,4,3,5,3,No,O'Connor,9713,Yes,3,4,3,3,3
+1915,34,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,2,4,2,No,O'Connor,8103,Yes,0,4,4,2,3
+1950,34,Male,Single,Sales,"Sales Executive",Travel_Rarely,1,3,14,8,No,O'Connor,9888,No,0,4,1,2,4
+1951,34,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,13,3,8,7,No,O'Connor,8628,No,1,3,4,2,3
+74,35,Male,Married,Sales,"Sales Executive",Travel_Frequently,18,3,9,8,No,Gallagher,9069,No,1,1,2,2,4
+125,32,Male,Single,Sales,"Sales Executive",Travel_Rarely,6,2,11,8,No,Gallagher,5010,No,0,3,2,3,3
+128,24,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,2,3,2,No,Gallagher,4999,No,1,3,1,2,4
+498,28,Male,Single,Sales,"Sales Executive",Travel_Rarely,9,2,7,5,No,Gallagher,5253,No,0,4,2,3,3
+580,46,Female,Married,Sales,"Sales Executive",Travel_Rarely,10,3,3,2,No,Gallagher,9071,Yes,1,4,3,3,3
+615,40,Male,Divorced,Sales,"Sales Executive",Non-Travel,28,3,1,0,No,Gallagher,10932,No,1,1,3,3,3
+632,24,Male,Married,Sales,"Sales Representative",Travel_Frequently,24,1,2,2,No,Gallagher,2400,No,2,4,4,3,3
+754,43,Male,Married,Sales,"Sales Executive",Travel_Frequently,15,2,2,2,No,Gallagher,6804,No,1,4,4,3,3
+846,28,Female,Married,Sales,"Sales Executive",Travel_Rarely,2,2,8,7,No,Gallagher,4779,Yes,0,2,2,3,4
+975,35,Female,Married,Sales,"Sales Executive",Travel_Rarely,18,2,5,2,No,Gallagher,4601,No,0,3,3,3,3
+1077,20,Female,Single,Sales,"Sales Representative",Travel_Frequently,9,1,2,2,Yes,Gallagher,2323,Yes,0,4,4,3,3
+1157,33,Female,Single,Sales,"Sales Executive",Travel_Rarely,9,2,5,2,Yes,Gallagher,8224,Yes,0,1,1,3,3
+1364,27,Female,Married,Sales,"Sales Representative",Travel_Rarely,11,1,1,0,No,Gallagher,2534,No,1,4,3,3,3
+1387,28,Male,Married,Sales,"Sales Executive",Travel_Rarely,26,2,5,3,No,Gallagher,4724,No,1,1,3,3,3
+1602,46,Male,Single,Sales,Manager,Travel_Rarely,1,4,26,0,No,Gallagher,17567,No,0,1,4,1,3
+1673,31,Female,Married,Sales,"Sales Executive",Travel_Rarely,5,2,10,0,No,Gallagher,5476,No,2,4,1,3,3
+1780,21,Male,Single,Sales,"Sales Representative",Travel_Rarely,7,1,1,0,Yes,Gallagher,2679,No,0,2,2,3,3
+1862,32,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,2,2,2,Yes,Gallagher,9907,Yes,0,2,3,2,3
+1965,27,Male,Single,Sales,"Sales Executive",Travel_Rarely,9,2,7,7,No,Gallagher,4105,No,0,4,4,3,3
+2018,25,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,8,2,5,3,No,Gallagher,4907,Yes,1,3,1,2,4
+2055,50,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,28,3,3,2,Yes,Gallagher,10854,Yes,1,1,4,3,3
+72,26,Female,Married,Sales,"Sales Executive",Travel_Rarely,23,2,2,2,No,Castillo,4157,Yes,1,4,3,2,3
+183,25,Male,Married,Sales,"Sales Executive",Travel_Rarely,28,2,2,2,No,Castillo,8639,No,0,3,1,3,3
+207,32,Female,Single,Sales,"Sales Executive",Travel_Frequently,8,3,9,8,No,Castillo,8998,No,0,4,2,3,3
+361,38,Male,Married,Sales,"Sales Executive",Non-Travel,2,2,8,7,No,Castillo,5249,No,1,4,4,3,3
+388,29,Male,Single,Sales,"Sales Executive",Travel_Frequently,2,2,10,7,No,Castillo,4554,No,0,4,2,2,3
+437,27,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,2,5,4,No,Castillo,4478,Yes,0,3,4,3,3
+446,33,Male,Single,Sales,"Sales Executive",Travel_Frequently,10,2,7,7,No,Castillo,4682,No,0,4,2,2,3
+599,41,Male,Single,Sales,"Sales Executive",Non-Travel,10,2,14,3,No,Castillo,6230,No,0,4,4,3,3
+625,41,Female,Married,Sales,Manager,Travel_Rarely,2,4,18,16,No,Castillo,16595,No,1,1,2,3,3
+728,47,Male,Single,Sales,"Sales Executive",Travel_Rarely,14,2,7,7,No,Castillo,4960,No,0,1,4,3,3
+738,50,Male,Married,Sales,"Sales Representative",Travel_Rarely,8,1,2,2,No,Castillo,3875,No,1,2,4,3,3
+983,38,Female,Single,Sales,"Sales Executive",Non-Travel,10,2,5,3,No,Castillo,5666,Yes,0,4,3,3,3
+1277,45,Female,Single,Sales,Manager,Travel_Rarely,2,5,24,10,Yes,Castillo,18824,Yes,0,2,1,3,3
+1282,51,Male,Divorced,Sales,Manager,Travel_Frequently,9,5,29,10,No,Castillo,19847,Yes,1,2,4,2,4
+1403,27,Female,Married,Sales,"Sales Executive",Travel_Rarely,10,2,6,2,No,Castillo,5769,Yes,0,4,4,3,3
+1716,47,Male,Married,Sales,"Sales Executive",Travel_Frequently,9,4,23,5,Yes,Castillo,12936,No,0,3,3,1,3
+1787,37,Male,Married,Sales,"Sales Executive",Travel_Rarely,9,2,5,2,No,Castillo,4189,No,2,2,2,3,3
+1875,28,Female,Married,Sales,"Sales Representative",Travel_Rarely,3,1,1,0,No,Castillo,2856,No,1,2,2,3,3
+1933,28,Female,Single,Sales,"Sales Executive",Travel_Rarely,13,2,2,0,Yes,Castillo,9854,Yes,0,3,4,3,3
+1938,58,Female,Married,Sales,Manager,Travel_Rarely,21,4,1,0,No,Castillo,17875,Yes,1,4,4,2,3
+2044,50,Male,Divorced,Sales,"Sales Executive",Travel_Frequently,1,2,6,3,Yes,Castillo,6728,No,2,3,2,3,3
+2046,45,Female,Single,Sales,"Sales Executive",Travel_Rarely,20,2,5,3,No,Castillo,4850,No,0,3,4,3,3
+47,50,Male,Married,Sales,"Sales Representative",Travel_Rarely,3,1,3,2,Yes,Alvarez,2683,Yes,0,3,1,3,3
+283,29,Female,Married,Sales,"Sales Executive",Travel_Rarely,27,3,10,4,Yes,Alvarez,7639,No,3,4,2,2,4
+323,50,Female,Divorced,Sales,Manager,Travel_Rarely,1,5,7,0,No,Alvarez,19517,No,1,4,4,2,3
+363,46,Female,Married,Sales,Manager,Travel_Rarely,2,4,7,7,No,Alvarez,16872,Yes,1,2,3,2,3
+445,39,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,2,1,0,Yes,Alvarez,5238,Yes,0,3,4,2,3
+534,41,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,3,10,7,No,Alvarez,8392,No,1,1,2,3,3
+645,25,Male,Married,Sales,"Sales Representative",Travel_Rarely,13,1,7,4,No,Alvarez,2096,No,0,3,2,3,3
+805,35,Female,Married,Sales,"Sales Representative",Travel_Rarely,8,1,3,2,No,Alvarez,2572,No,1,4,1,2,3
+808,34,Female,Married,Sales,"Sales Executive",Travel_Rarely,8,2,3,2,No,Alvarez,6500,No,1,1,3,3,3
+986,40,Female,Single,Sales,"Sales Executive",Non-Travel,24,4,1,0,Yes,Alvarez,13194,Yes,0,2,2,2,3
+1047,34,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,1,2,15,1,No,Alvarez,9725,No,1,4,2,2,3
+1114,33,Female,Married,Sales,"Sales Executive",Travel_Frequently,7,2,3,2,No,Alvarez,4302,No,1,2,4,3,3
+1171,42,Male,Single,Sales,"Sales Executive",Travel_Rarely,4,2,6,4,No,Alvarez,5155,No,0,1,2,4,3
+1212,40,Male,Married,Sales,"Sales Executive",Travel_Frequently,2,2,0,0,No,Alvarez,4327,No,3,2,2,3,3
+1355,38,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,2,2,7,7,No,Alvarez,6893,No,1,1,2,3,3
+1425,36,Female,Single,Sales,"Sales Executive",Travel_Rarely,3,2,5,4,No,Alvarez,9278,Yes,0,2,1,3,3
+1478,34,Male,Single,Sales,"Sales Executive",Travel_Rarely,3,2,13,9,No,Alvarez,4759,No,0,1,4,3,3
+1961,38,Male,Single,Sales,"Sales Representative",Travel_Rarely,1,1,1,0,No,Alvarez,2858,No,0,1,1,2,3
+1968,53,Male,Single,Sales,"Sales Executive",Travel_Rarely,24,3,2,2,Yes,Alvarez,10448,Yes,0,1,1,2,3
+204,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,3,10,8,No,Petrov,7295,No,2,2,3,3,3
+406,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,16,3,11,9,No,Petrov,8020,No,2,2,3,2,3
+436,32,Female,Married,Sales,"Sales Executive",Travel_Rarely,8,2,13,12,No,Petrov,5228,Yes,0,2,3,3,3
+508,30,Male,Married,Sales,"Sales Representative",Travel_Rarely,2,1,1,0,No,Petrov,2476,No,1,2,3,3,3
+513,36,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,3,10,9,No,Petrov,7596,No,2,3,2,3,3
+1076,43,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,25,3,1,0,No,Petrov,10798,No,1,4,3,3,3
+1226,20,Male,Single,Sales,"Sales Representative",Travel_Rarely,21,1,2,1,No,Petrov,2678,No,0,4,3,3,3
+1267,44,Male,Married,Sales,Manager,Travel_Rarely,5,5,22,9,No,Petrov,18213,No,1,2,2,3,3
+1453,31,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,8,3,13,7,No,Petrov,10793,No,1,4,1,3,3
+1487,29,Female,Single,Sales,"Sales Executive",Travel_Frequently,13,2,5,3,Yes,Petrov,5765,No,0,2,1,1,3
+1568,30,Male,Married,Sales,"Sales Executive",Travel_Rarely,29,3,4,2,No,Petrov,9250,No,1,2,3,3,3
+1583,38,Female,Single,Sales,"Sales Executive",Travel_Rarely,16,2,3,2,No,Petrov,4198,No,0,2,2,4,3
+1624,18,Female,Single,Sales,"Sales Representative",Travel_Frequently,3,1,0,0,Yes,Petrov,1569,Yes,0,4,2,4,3
+1680,20,Male,Single,Sales,"Sales Representative",Travel_Rarely,9,1,2,2,No,Petrov,2728,No,0,1,4,3,3
+1761,31,Male,Married,Sales,"Sales Executive",Travel_Rarely,16,3,1,0,Yes,Petrov,8161,No,3,3,1,3,3
+1996,31,Male,Married,Sales,"Sales Representative",Travel_Rarely,2,1,2,2,No,Petrov,3067,No,1,3,1,3,3
+167,19,Male,Single,Sales,"Sales Representative",Travel_Rarely,22,1,0,0,Yes,Larsen,1675,Yes,0,3,4,2,3
+248,41,Female,Single,Sales,"Sales Representative",Travel_Rarely,20,1,4,3,Yes,Larsen,3140,Yes,0,2,2,2,4
+303,54,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,2,6,2,No,Larsen,5940,No,1,1,4,3,3
+467,47,Male,Single,Sales,"Sales Representative",Travel_Frequently,4,2,0,0,No,Larsen,2976,No,0,3,2,3,3
+469,29,Male,Married,Sales,"Sales Executive",Non-Travel,2,2,4,3,No,Larsen,4649,No,1,3,4,2,3
+488,41,Male,Single,Sales,"Sales Executive",Travel_Frequently,4,2,8,7,Yes,Larsen,9355,No,0,2,1,3,3
+554,24,Female,Single,Sales,"Sales Representative",Travel_Rarely,1,1,5,3,Yes,Larsen,3202,Yes,0,2,1,3,3
+568,57,Male,Divorced,Sales,Manager,Travel_Rarely,29,4,1,0,No,Larsen,14118,No,1,4,1,2,3
+613,31,Male,Divorced,Sales,Manager,Travel_Rarely,7,3,5,4,No,Larsen,11557,No,1,4,3,2,4
+709,38,Female,Single,Sales,"Sales Executive",Travel_Rarely,7,2,7,7,No,Larsen,4028,No,0,4,4,3,4
+967,36,Male,Married,Sales,"Sales Executive",Travel_Rarely,3,3,16,7,Yes,Larsen,10325,Yes,1,4,3,3,3
+1037,26,Male,Single,Sales,"Sales Executive",Non-Travel,29,2,2,2,Yes,Larsen,4969,No,0,1,2,3,3
+1188,43,Female,Single,Sales,"Sales Executive",Travel_Rarely,9,2,4,3,Yes,Larsen,5346,No,0,3,1,2,3
+1372,55,Male,Single,Sales,"Sales Executive",Travel_Rarely,13,4,19,7,Yes,Larsen,13695,Yes,0,3,1,2,3
+1489,34,Female,Single,Sales,"Sales Executive",Travel_Rarely,24,2,15,9,Yes,Larsen,4599,Yes,0,2,1,4,4
+1588,39,Male,Married,Sales,"Sales Executive",Travel_Rarely,6,3,7,6,No,Larsen,8237,No,1,3,4,3,3
+1833,31,Female,Married,Sales,"Sales Executive",Travel_Frequently,7,3,3,2,No,Larsen,9637,No,2,1,1,3,3
+62,46,Male,Single,Sales,"Sales Executive",Travel_Frequently,5,2,9,6,No,Thibault,5772,Yes,0,4,1,3,4
+291,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,4,3,14,8,Yes,Thibault,10400,No,0,4,4,2,3
+298,41,Female,Single,Sales,Manager,Travel_Rarely,6,3,1,0,No,Thibault,13591,Yes,0,4,4,3,3
+595,48,Female,Married,Sales,"Sales Executive",Travel_Rarely,2,2,9,7,No,Thibault,4051,No,1,4,2,3,3
+641,26,Male,Married,Sales,"Sales Executive",Travel_Rarely,28,2,5,3,No,Thibault,6272,No,2,2,1,4,4
+650,31,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,13,2,3,1,Yes,Thibault,4233,No,0,1,2,1,3
+789,36,Male,Single,Sales,"Sales Executive",Non-Travel,8,3,10,7,No,Thibault,7587,No,0,1,1,3,3
+893,38,Male,Married,Sales,"Sales Representative",Travel_Rarely,9,1,2,2,No,Thibault,2899,No,1,2,2,3,3
+900,37,Female,Married,Sales,"Sales Representative",Travel_Frequently,21,1,5,4,No,Thibault,2973,No,1,4,3,3,3
+985,39,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,3,8,7,No,Thibault,7880,No,0,3,1,3,3
+1038,52,Female,Married,Sales,Manager,Travel_Rarely,2,5,32,14,Yes,Thibault,19845,No,1,4,1,3,3
+1125,38,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,3,1,0,No,Thibault,7351,No,0,2,4,3,3
+1137,35,Male,Divorced,Sales,"Sales Executive",Travel_Frequently,11,2,5,2,No,Thibault,4968,No,1,4,4,3,3
+1492,35,Male,Married,Sales,"Sales Representative",Travel_Rarely,7,1,1,0,No,Thibault,2404,No,1,3,4,3,3
+1639,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,10,3,13,12,Yes,Thibault,10306,No,0,1,4,3,3
+1657,20,Female,Single,Sales,"Sales Representative",Travel_Rarely,2,1,2,2,No,Thibault,2783,No,0,3,3,3,3
+1702,23,Male,Divorced,Sales,"Sales Representative",Travel_Rarely,7,1,3,2,Yes,Thibault,2275,Yes,1,4,3,3,4
+378,37,Male,Married,Sales,"Sales Executive",Travel_Rarely,6,2,5,4,No,Jankowski,6502,No,1,4,3,4,3
+494,21,Female,Single,Sales,"Sales Representative",Travel_Rarely,12,1,1,0,Yes,Jankowski,2716,No,0,2,3,3,3
+533,30,Female,Single,Sales,"Sales Executive",Travel_Rarely,12,2,5,4,No,Jankowski,6577,No,0,3,2,3,3
+555,34,Female,Divorced,Sales,"Sales Representative",Travel_Frequently,6,1,2,2,Yes,Jankowski,2351,No,1,3,4,2,3
+897,53,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,4,2,0,No,Jankowski,11836,No,1,4,1,3,3
+1029,42,Male,Married,Sales,Manager,Travel_Rarely,5,5,1,0,No,Jankowski,18303,No,0,3,4,4,3
+1070,54,Female,Married,Sales,"Sales Executive",Travel_Rarely,2,3,9,4,No,Jankowski,10686,No,1,3,3,3,3
+1163,34,Female,Married,Sales,"Sales Executive",Travel_Rarely,9,2,6,5,No,Jankowski,5714,No,0,3,2,2,4
+1243,35,Female,Married,Sales,"Sales Executive",Non-Travel,8,3,13,2,No,Jankowski,10377,Yes,1,4,3,2,3
+1853,32,Male,Single,Sales,"Sales Executive",Travel_Frequently,10,2,0,0,No,Jankowski,4648,No,0,4,4,4,3
+2021,21,Male,Single,Sales,"Sales Representative",Travel_Rarely,5,1,2,2,No,Jankowski,2380,Yes,0,1,3,3,3
+2060,26,Female,Single,Sales,"Sales Representative",Travel_Rarely,5,1,4,2,No,Jankowski,2966,No,0,3,4,3,3
+118,46,Male,Single,Sales,"Sales Executive",Travel_Rarely,9,3,9,8,Yes,Ekwueme,9619,No,0,4,3,3,3
+205,53,Male,Married,Sales,"Sales Representative",Travel_Rarely,6,2,7,7,No,Ekwueme,2306,Yes,1,3,2,1,4
+311,37,Male,Divorced,Sales,"Sales Representative",Travel_Frequently,4,1,9,8,No,Ekwueme,2793,No,1,4,1,3,3
+314,35,Female,Single,Sales,"Sales Executive",Travel_Frequently,1,3,10,7,No,Ekwueme,8789,No,0,3,3,4,3
+600,35,Male,Married,Sales,"Sales Executive",Travel_Rarely,1,2,11,9,No,Ekwueme,4717,No,0,3,2,3,3
+626,37,Male,Divorced,Sales,"Sales Executive",Non-Travel,9,3,9,5,No,Ekwueme,8834,No,1,2,1,3,3
+684,45,Female,Married,Sales,"Sales Executive",Travel_Frequently,26,2,1,1,Yes,Ekwueme,4286,No,2,1,1,3,3
+707,25,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,2,3,2,No,Ekwueme,4851,No,1,2,4,3,4
+922,20,Female,Single,Sales,"Sales Representative",Travel_Rarely,2,1,2,2,Yes,Ekwueme,2044,No,0,3,3,2,3
+925,47,Female,Single,Sales,"Sales Representative",Travel_Rarely,2,1,3,2,No,Ekwueme,3294,Yes,0,4,4,2,3
+992,33,Male,Single,Sales,Manager,Non-Travel,17,4,10,8,No,Ekwueme,17444,No,0,3,4,3,3
+1254,59,Female,Single,Sales,"Sales Executive",Travel_Rarely,3,2,6,1,No,Ekwueme,5171,No,0,4,3,3,3
+1399,25,Male,Married,Sales,"Sales Executive",Travel_Rarely,18,2,3,2,No,Ekwueme,6232,No,0,3,1,2,3
+1481,44,Female,Married,Sales,"Sales Executive",Travel_Frequently,1,2,1,0,No,Ekwueme,4768,No,1,3,1,2,3
+1749,31,Male,Married,Sales,"Sales Executive",Travel_Rarely,5,2,5,2,No,Ekwueme,8346,No,1,3,1,3,3
+2035,34,Female,Married,Sales,"Sales Executive",Travel_Rarely,28,2,8,7,No,Ekwueme,6712,No,2,3,4,3,4
+299,30,Female,Single,Sales,"Sales Executive",Travel_Frequently,26,2,6,3,Yes,Huang,6696,No,0,1,3,2,3
+302,45,Female,Single,Sales,"Sales Executive",Non-Travel,6,3,19,7,No,Huang,8865,No,0,4,4,3,3
+366,29,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,0,0,No,Huang,6644,No,2,2,1,3,3
+592,36,Male,Single,Sales,"Sales Executive",Non-Travel,10,3,10,3,No,Huang,9980,No,0,4,2,2,3
+614,18,Male,Single,Sales,"Sales Representative",Travel_Frequently,5,1,0,0,Yes,Huang,1878,Yes,0,2,2,3,3
+729,40,Male,Married,Sales,"Sales Executive",Travel_Frequently,5,3,18,13,No,Huang,10475,Yes,1,1,4,3,4
+786,34,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,2,6,5,No,Huang,6274,No,0,4,4,3,4
+896,29,Female,Divorced,Sales,"Sales Representative",Travel_Rarely,1,1,3,2,Yes,Huang,2800,Yes,3,3,2,3,3
+903,47,Female,Married,Sales,"Sales Executive",Travel_Rarely,2,2,7,6,No,Huang,4537,Yes,1,4,3,3,4
+1050,53,Female,Married,Sales,"Sales Executive",Travel_Frequently,2,3,15,7,No,Huang,7525,No,1,2,3,3,3
+1204,46,Female,Married,Sales,Manager,Travel_Rarely,2,4,26,15,No,Huang,17048,No,0,1,3,3,4
+1582,38,Male,Married,Sales,"Sales Executive",Travel_Rarely,14,2,9,8,No,Huang,9924,No,1,2,3,3,3
+1585,36,Female,Single,Sales,"Sales Executive",Travel_Rarely,1,2,1,0,No,Huang,6815,No,0,3,2,3,3
+1670,33,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,2,2,6,2,No,Huang,5505,No,2,4,4,3,3
+1710,36,Female,Single,Sales,"Sales Representative",Travel_Rarely,2,2,13,7,No,Huang,4502,No,0,4,3,2,3
+1797,35,Male,Single,Sales,"Sales Executive",Travel_Rarely,27,2,10,7,Yes,Huang,5813,Yes,0,4,3,3,3
+1836,26,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,2,5,3,No,Huang,4684,No,0,4,3,3,3
+1962,35,Female,Married,Sales,"Sales Executive",Travel_Rarely,7,2,10,8,No,Huang,5204,Yes,0,4,3,3,3
+27,36,Male,Single,Sales,"Sales Representative",Travel_Rarely,9,1,5,3,Yes,"Kowalski 2",3407,No,0,1,3,3,4
+52,33,Female,Married,Sales,"Sales Executive",Travel_Frequently,1,2,5,3,No,"Kowalski 2",5376,No,2,1,3,3,3
+56,27,Male,Single,Sales,"Sales Executive",Travel_Frequently,8,3,9,8,No,"Kowalski 2",8726,No,0,3,4,3,3
+113,23,Male,Divorced,Sales,"Sales Representative",Travel_Rarely,2,1,0,0,No,"Kowalski 2",2322,No,1,1,3,3,3
+567,30,Female,Married,Sales,"Sales Executive",Non-Travel,22,3,9,8,No,"Kowalski 2",8412,No,0,1,3,3,3
+631,32,Male,Married,Sales,"Sales Executive",Non-Travel,11,2,4,2,Yes,"Kowalski 2",4707,No,0,3,4,3,3
+682,53,Female,Single,Sales,"Sales Executive",Travel_Rarely,1,2,14,7,No,"Kowalski 2",8381,No,0,1,4,4,4
+819,33,Female,Single,Sales,"Sales Executive",Travel_Rarely,16,2,3,2,Yes,"Kowalski 2",5324,No,0,1,1,3,3
+851,51,Female,Married,Sales,Manager,Travel_Rarely,26,4,20,6,No,"Kowalski 2",16307,No,1,3,1,2,3
+941,31,Male,Married,Sales,"Sales Representative",Travel_Rarely,7,1,7,7,No,"Kowalski 2",2329,No,0,3,2,4,3
+1167,42,Male,Single,Sales,"Sales Executive",Travel_Frequently,12,4,21,9,Yes,"Kowalski 2",13758,Yes,0,1,3,2,3
+1650,29,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,2,5,2,No,"Kowalski 2",5869,No,0,3,3,3,3
+81,59,Female,Single,Sales,"Sales Executive",Travel_Rarely,25,3,21,16,No,"Farrell 2",7637,No,0,1,1,2,3
+235,19,Female,Single,Sales,"Sales Representative",Travel_Frequently,1,1,0,0,Yes,"Farrell 2",2325,No,0,1,3,4,4
+240,45,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,4,2,5,4,No,"Farrell 2",5006,Yes,1,1,3,4,3
+244,46,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,1,3,24,13,No,"Farrell 2",10453,No,3,1,2,3,4
+333,32,Male,Married,Sales,"Sales Executive",Non-Travel,26,2,3,2,No,"Farrell 2",4465,No,0,4,3,3,3
+382,38,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,7,2,8,0,No,"Farrell 2",5605,Yes,1,1,1,3,4
+411,18,Female,Single,Sales,"Sales Representative",Travel_Rarely,10,1,0,0,No,"Farrell 2",1200,No,0,3,4,3,3
+438,31,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,7,2,7,7,No,"Farrell 2",7547,No,3,4,4,3,3
+573,60,Female,Married,Sales,"Sales Executive",Travel_Frequently,28,3,18,13,No,"Farrell 2",10266,No,0,1,3,4,3
+618,26,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,29,2,0,0,No,"Farrell 2",4306,No,2,3,1,3,3
+746,47,Female,Divorced,Sales,"Sales Executive",Travel_Frequently,3,4,22,2,No,"Farrell 2",13770,Yes,2,3,4,2,3
+749,29,Male,Single,Sales,"Sales Representative",Travel_Rarely,10,1,1,0,No,"Farrell 2",2642,No,0,3,3,3,3
+916,28,Male,Single,Sales,"Sales Executive",Travel_Rarely,5,2,4,2,No,"Farrell 2",4908,No,0,4,1,3,3
+974,29,Female,Married,Sales,"Sales Representative",Travel_Frequently,20,1,3,1,No,"Farrell 2",2157,No,1,4,3,3,3
+1045,45,Female,Married,Sales,Manager,Travel_Rarely,11,4,9,3,No,"Farrell 2",17650,No,1,4,4,4,3
+1055,34,Female,Married,Sales,"Sales Representative",Travel_Rarely,10,1,1,1,No,"Farrell 2",2220,Yes,1,3,3,3,3
+1119,38,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,10,3,8,7,No,"Farrell 2",8740,Yes,2,3,3,3,3
+1240,25,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,2,4,3,No,"Farrell 2",4950,No,0,4,3,3,3
+1503,47,Female,Married,Sales,"Sales Executive",Travel_Rarely,14,2,5,4,No,"Farrell 2",4591,Yes,1,3,3,2,3
+1556,36,Male,Single,Sales,"Sales Representative",Travel_Rarely,2,1,3,2,No,"Farrell 2",2644,Yes,0,4,3,2,4
+1598,40,Female,Married,Sales,"Sales Executive",Travel_Rarely,14,2,5,4,No,"Farrell 2",4639,No,1,1,4,3,3
+1823,34,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,2,10,8,No,"Farrell 2",6799,No,2,3,2,3,4
+1924,33,Male,Single,Sales,"Sales Executive",Travel_Rarely,10,2,10,4,No,"Farrell 2",5487,No,0,3,2,2,3
+1967,31,Male,Married,Sales,"Sales Executive",Travel_Frequently,26,2,10,7,Yes,"Farrell 2",5617,Yes,0,4,1,3,3
+2019,52,Male,Divorced,Sales,"Sales Representative",Non-Travel,29,1,9,8,No,"Farrell 2",3482,No,2,4,1,2,3
+2056,39,Female,Married,Sales,"Sales Executive",Travel_Rarely,24,4,20,9,No,"Farrell 2",12031,No,1,4,2,2,3
+129,28,Male,Married,Sales,"Sales Executive",Non-Travel,4,2,5,4,No,"Quinn 2",4221,No,0,3,2,4,3
+158,43,Male,Married,Sales,Manager,Travel_Frequently,26,4,25,12,No,"Quinn 2",16959,Yes,2,4,3,4,3
+327,43,Female,Married,Sales,Manager,Travel_Rarely,16,4,17,13,No,"Quinn 2",16064,Yes,1,4,4,3,4
+401,26,Male,Single,Sales,"Sales Executive",Travel_Rarely,4,2,8,7,Yes,"Quinn 2",5828,Yes,0,4,4,3,3
+463,29,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,10,2,7,7,No,"Quinn 2",8268,Yes,2,2,4,3,3
+597,55,Female,Single,Sales,Manager,Travel_Rarely,18,4,10,9,No,"Quinn 2",16835,No,0,2,1,3,4
+954,40,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,10,3,1,0,No,"Quinn 2",9705,No,1,2,1,2,3
+1036,38,Male,Single,Sales,"Sales Executive",Travel_Rarely,3,2,1,0,No,"Quinn 2",6861,Yes,0,4,2,3,3
+1056,28,Male,Married,Sales,"Sales Representative",Travel_Rarely,10,1,1,0,No,"Quinn 2",1052,No,0,2,4,3,4
+1117,45,Female,Married,Sales,"Sales Executive",Non-Travel,9,2,15,10,No,"Quinn 2",5593,No,1,3,2,3,3
+1280,46,Female,Married,Sales,Manager,Travel_Rarely,4,5,11,4,No,"Quinn 2",18789,No,1,2,4,3,3
+1379,31,Female,Single,Sales,"Sales Representative",Travel_Frequently,2,1,1,0,Yes,"Quinn 2",2785,No,0,4,3,4,3
+1391,51,Male,Married,Sales,"Sales Executive",Travel_Frequently,2,3,4,2,No,"Quinn 2",10596,No,0,2,2,3,3
+1439,25,Male,Married,Sales,"Sales Representative",Travel_Rarely,9,1,3,2,Yes,"Quinn 2",4400,No,0,1,1,3,3
+1466,48,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,7,2,2,2,No,"Quinn 2",5486,No,3,1,3,3,3
+1469,28,Male,Single,Sales,"Sales Executive",Travel_Rarely,5,2,5,4,No,"Quinn 2",8463,No,0,1,4,3,3
+1667,35,Male,Single,Sales,"Sales Executive",Travel_Frequently,12,2,11,9,Yes,"Quinn 2",4581,Yes,0,4,4,4,4
+1849,43,Male,Married,Sales,"Sales Executive",Travel_Frequently,2,2,7,7,No,"Quinn 2",5675,No,1,4,1,3,4
+2016,32,Female,Married,Sales,"Sales Executive",Travel_Rarely,1,3,14,10,No,"Quinn 2",10422,No,2,4,3,3,3
+35,42,Male,Married,Sales,"Sales Executive",Travel_Rarely,8,2,9,7,No,"Brennan 2",6825,No,1,2,3,3,3
+42,39,Male,Married,Sales,"Sales Representative",Travel_Rarely,5,2,1,0,Yes,"Brennan 2",2086,No,1,4,4,4,3
+160,33,Male,Married,Sales,"Sales Executive",Non-Travel,22,2,7,7,No,"Brennan 2",6146,No,1,2,3,4,3
+330,32,Female,Married,Sales,"Sales Representative",Travel_Rarely,4,1,4,3,No,"Brennan 2",3931,No,1,2,3,3,3
+492,40,Male,Married,Sales,"Sales Executive",Travel_Rarely,22,2,6,4,Yes,"Brennan 2",6380,Yes,2,3,3,3,3
+842,55,Male,Single,Sales,"Sales Executive",Travel_Rarely,2,2,9,7,Yes,"Brennan 2",5160,No,0,4,3,2,3
+864,45,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,9,3,5,4,No,"Brennan 2",10761,Yes,1,1,4,3,3
+889,32,Male,Married,Sales,"Sales Executive",Travel_Frequently,5,2,10,8,No,"Brennan 2",6524,No,1,2,2,3,3
+982,30,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,8,3,8,4,No,"Brennan 2",7264,No,1,3,3,4,3
+1395,33,Male,Married,Sales,"Sales Executive",Travel_Frequently,5,2,5,4,No,"Brennan 2",9998,No,0,4,2,4,3
+1612,45,Male,Married,Sales,"Sales Executive",Non-Travel,26,2,10,7,No,"Brennan 2",4385,No,1,1,1,3,3
+1708,41,Male,Single,Sales,"Sales Executive",Travel_Rarely,6,3,10,8,No,"Brennan 2",9241,No,0,3,4,3,3
+1731,47,Male,Married,Sales,"Sales Executive",Non-Travel,2,2,1,0,No,"Brennan 2",4978,No,1,2,3,1,3
+1739,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,19,3,4,3,No,"Brennan 2",9610,No,1,3,4,1,3
+1740,40,Male,Single,Sales,Manager,Travel_Rarely,7,5,21,8,No,"Brennan 2",19833,No,0,2,2,2,3
+2041,38,Female,Married,Sales,"Sales Executive",Travel_Rarely,10,2,10,7,No,"Brennan 2",5343,No,1,4,1,3,3
+38,46,Female,Single,Sales,Manager,Travel_Rarely,2,5,2,2,No,"Nakamura 2",18947,No,0,1,2,2,3
+60,34,Male,Single,Sales,"Sales Executive",Non-Travel,23,2,9,5,No,"Nakamura 2",4568,No,0,3,2,3,4
+195,32,Male,Divorced,Sales,"Sales Executive",Travel_Frequently,9,2,8,7,No,"Nakamura 2",4668,No,3,4,4,4,3
+458,27,Female,Married,Sales,"Sales Executive",Travel_Rarely,8,2,8,7,No,"Nakamura 2",6214,No,1,2,2,3,3
+558,40,Female,Married,Sales,Manager,Travel_Rarely,2,5,20,15,No,"Nakamura 2",18041,No,0,3,3,3,3
+585,30,Male,Single,Sales,"Sales Representative",Travel_Rarely,7,1,3,2,No,"Nakamura 2",2983,No,0,2,4,3,3
+606,45,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,8,7,No,"Nakamura 2",4805,No,1,2,4,4,3
+648,30,Male,Married,Sales,"Sales Representative",Travel_Frequently,12,1,1,0,Yes,"Nakamura 2",2033,No,1,1,2,4,3
+656,37,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,3,0,No,"Nakamura 2",9602,Yes,1,3,4,2,3
+667,27,Male,Divorced,Sales,"Sales Representative",Travel_Rarely,2,1,4,3,Yes,"Nakamura 2",3041,No,1,1,3,3,3
+690,29,Female,Married,Sales,"Sales Executive",Travel_Rarely,3,2,6,0,No,"Nakamura 2",5561,No,1,3,2,2,3
+732,60,Male,Single,Sales,"Sales Executive",Travel_Rarely,16,2,2,2,No,"Nakamura 2",5405,No,0,1,1,3,3
+747,30,Male,Divorced,Sales,"Sales Executive",Travel_Rarely,27,2,8,7,No,"Nakamura 2",5304,No,1,4,3,2,4
+776,52,Male,Married,Sales,Manager,Travel_Rarely,3,4,34,6,No,"Nakamura 2",16856,No,0,1,3,4,3
+1179,30,Male,Married,Sales,"Sales Executive",Travel_Rarely,10,2,10,3,No,"Nakamura 2",6578,No,1,3,3,3,3
+1239,40,Female,Divorced,Sales,"Sales Executive",Travel_Rarely,10,2,5,1,No,"Nakamura 2",6852,No,1,2,2,4,3
+1371,27,Male,Single,Sales,"Sales Executive",Travel_Frequently,2,2,6,2,No,"Nakamura 2",5071,No,0,4,4,3,4
+1396,32,Male,Married,Sales,"Sales Executive",Travel_Rarely,2,2,3,2,No,"Nakamura 2",4078,Yes,3,2,3,2,3
+1427,31,Female,Single,Sales,"Sales Representative",Travel_Frequently,1,1,1,0,Yes,"Nakamura 2",1359,No,0,3,2,3,3
+1479,30,Male,Married,Sales,"Sales Executive",Travel_Rarely,16,2,2,1,No,"Nakamura 2",5301,No,2,3,4,2,3
+1613,31,Male,Single,Sales,"Sales Executive",Travel_Frequently,2,2,5,2,No,"Nakamura 2",5332,No,0,1,4,3,3
+1779,34,Female,Single,Sales,"Sales Executive",Travel_Rarely,3,2,2,2,No,"Nakamura 2",6029,No,0,4,4,3,3
+1864,27,Female,Married,Sales,"Sales Representative",Travel_Rarely,23,2,9,8,No,"Nakamura 2",3540,No,1,3,2,3,4
