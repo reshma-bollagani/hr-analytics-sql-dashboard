@@ -63,7 +63,7 @@ comments, and `db/mysql/load_data_mysql.sql` for the data load.
 ## How to run it (MySQL / MariaDB via MySQL Workbench)
 
 This project was built and fully verified against a real MySQL-compatible
-server (MariaDB 10.11) -- every step below was run end-to-end, including
+server  -- every step below was run end-to-end, including
 all 7 reports, with results confirmed row-for-row.
 
 1. **File → Open SQL Script** → select `db/mysql/schema_mysql.sql` →
@@ -134,7 +134,7 @@ get requested -- followed by a short technical rationale.
 All formulas verified at zero errors via LibreOffice recalculation.
 
 ## Tech used
-MySQL / MariaDB, Python (pandas, numpy -- used for the one-time data
+MySQL , Python (pandas, numpy -- used for the one-time data
 cleaning step in `data/prepare_real_dataset.py`), SQL (JOINs, CASE,
 window functions, CTEs), Excel (formulas, charts, pivot-table-ready
 raw data).
